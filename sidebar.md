@@ -6,8 +6,8 @@
 ## SOFTWARE
 - [Infrastructure](#docs/sw_infrastructure)
 - [Pre-production](#docs/sw_preprod)
-- [Production – 3D](#docs/sw_prod3d)
-- [Production – 2D](#docs/sw_prod2d)
+- [Production – 3D](#docs/sw_prod_3d)
+- [Production – 2D](#docs/sw_prod_2d)
 - [Stopmotion](#docs/sw_prod_stopmotion)
 - [Game engines](#docs/sw_prod_gameengines)
 - [Production - Other](#docs/sw_prod_other)
