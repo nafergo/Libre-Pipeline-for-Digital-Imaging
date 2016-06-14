@@ -2,6 +2,32 @@
 
 [ditto:searchbar]
 
+
+## SOFTWARE
+### Infrastructure
+### Pre-production
+### Production – 3D
+### Production – 2D
+### Production – Stopmotion
+### Production – Other Techniques
+### Production – Game Engines
+### Post-production
+### Distribution
+### Other Useful
+
+## ASSETS
+- [3D Models](#docs/assets_3dmodels)
+- [Audio](#docs/archviz_links)
+- [Fonts](#docs/archviz_links)
+- [Graphics](#docs/archviz_links)
+- [HDRI](#docs/archviz_links)
+- [Photos](#docs/archviz_links)
+- [References](#docs/archviz_links)
+- [Rigs](#docs/archviz_links)
+- [Textures](#docs/archviz_links)
+- [Video](#docs/archviz_links)
+
+
 ## General archviz
 - [archviz links](#docs/archviz_links)
 - [Archviz tips](#docs/archviz_tips)
