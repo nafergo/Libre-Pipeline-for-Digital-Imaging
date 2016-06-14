@@ -25,12 +25,7 @@
 *   [TaskJuggler](http://taskjuggler.org/)
 *   [Tuleap](https://www.tuleap.org/)
 
-</div>
-
 ## Budget & Finances & Invoices
-
-<div class="menu-infrastructure-budgetandfinances-container">
-
 *   [BambooInvoice](http://bambooinvoice.org/)
 *   [Buddi](http://buddi.digitalcave.ca/)
 *   [GnuCash](http://www.gnucash.org/)
@@ -38,12 +33,7 @@
 *   [KMyMoney](http://kmymoney2.sourceforge.net/)
 *   [SimpleInvoices](http://www.simpleinvoices.org/)
 
-</div>
-
 ## Production Management
-
-<div class="menu-infrastructure-productionmanagement-container">
-
 *   [attract](http://attract-app.org/)
 *   [Helga](http://helgaproject.org/)
 *   [OpenPipeline](http://openpipeline.cc/)
@@ -56,12 +46,7 @@
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 *   [Tindio](http://e-pool-productions.github.io/tindio/)
 
-</div>
-
 ## Assets Management
-
-<div class="menu-infrastructure-assetsmanagement-container">
-
 *   [blender-aid](http://www.atmind.nl/?p=47)
 *   [DAMN](http://damn.csproject.org/)
 *   [Git](http://git-scm.com/)
@@ -76,12 +61,7 @@
 *   [Syncthing](http://syncthing.net/)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 
-</div>
-
 ## Image assets managenent
-
-<div class="menu-infrastructure-imagemanagement-container">
-
 *   [digiKam](http://www.digikam.org/)
 *   [F-Spot](http://f-spot.org/)
 *   [Gallery](http://galleryproject.org/)
@@ -93,12 +73,7 @@
 *   [Piwigo](http://www.piwigo.org/)
 *   [Shotwell](http://www.yorba.org/projects/shotwell/)
 
-</div>
-
 ## Media Players & Transcoding
-
-<div class="menu-infrastructure-players-container">
-
 *   [Arista Transcoder](http://transcoder.org/)
 *   [DJV Imaging](http://djv.sourceforge.net/)
 *   [Duke](http://opensource.mikrosimage.eu/duke.html)
@@ -109,12 +84,7 @@
 *   [VLC](http://www.videolan.org/vlc/)
 *   [WinFF](http://winff.org/html_new/)
 
-</div>
-
 ## File Formats
-
-<div class="menu-infrastructure-fileformats-container">
-
 *   [Alembic](http://www.alembic.io/)
 *   [COLLADA](https://collada.org/)
 *   [FLIF](http://flif.info/)
@@ -126,119 +96,3 @@
 *   [Theora](http://www.theora.org/)
 *   [Vorbis](http://www.vorbis.com/)
 *   [WebM](http://www.webmproject.org/)
-
-</div>
-
-
-
-
-##Operating Systems
-
-Debian
-Fedora
-Linux Mint
-Ubuntu
-Ubuntu Studio
-
-
-##Project Management
-
-Collabtive
-GanttProject
-Kanboard
-Libreboard
-MyCollab
-Odoo
-Open Atrium
-OrangeScrum
-Plan
-Planner
-Redmine
-Taiga
-TaskBoard
-TaskJuggler
-Tuleap
-
-
-##Budget & Finances & Invoices
-
-BambooInvoice
-Buddi
-GnuCash
-Grisbi
-KMyMoney
-SimpleInvoices
-
-
-##Production Management
-
-attract
-Helga
-OpenPipeline
-prodisc
-oyProjectManager
-RULES
-Shotz
-Stalker
-StudiozCollabPress
-TACTIC
-Tindio
-
-
-##Assets Management
-
-blender-aid
-DAMN
-Git
-MediaGoblin
-OPAM
-OpenDAM
-ownCloud
-Seafile
-Sparkleshare
-Stalker
-Subversion
-Syncthing
-TACTIC
-
-
-##Image assets managenent
-
-digiKam
-F-Spot
-Gallery
-Geeqie
-Gwenview
-KPhotoAlbum
-KSquirrel
-MediaGoblin
-Piwigo
-Shotwell
-
-
-##Media Players & Transcoding
-
-Arista Transcoder
-DJV Imaging
-Duke
-FFmpeg
-HandBrake
-MEncoder
-MPlayer
-VLC
-WinFF
-
-
-##File Formats
-
-Alembic
-COLLADA
-FLIF
-Matroska
-OpenEXR
-OpenRaster
-PNG
-SVG
-Theora
-Vorbis
-WebM
