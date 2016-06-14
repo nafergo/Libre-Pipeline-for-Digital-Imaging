@@ -5,50 +5,34 @@
 
 ## SOFTWARE
 ### Infrastructure
+- [Audio](#docs/sw_infrastructure_audio)
 ### Pre-production
+- [Audio](#docs/sw_pre_audio)
 ### Production – 3D
+- [Audio](#docs/sw_prod3d_audio)
 ### Production – 2D
-### Production – Stopmotion
-### Production – Other Techniques
-### Production – Game Engines
+- [Audio](#docs/sw_prod2d_audio)
+### Production – Other
+- [Audio](#docs/sw_prod_stopmotion)
+- [Audio](#docs/sw_prod_gameengines)
+- [Audio](#docs/sw_prod_other)
 ### Post-production
-### Distribution
+- [Audio](#docs/sw_post_audio)
 ### Other Useful
+- [Audio](#docs/sw_other_distribution)
 
 ## ASSETS
 - [3D Models](#docs/assets_3dmodels)
-- [Audio](#docs/archviz_links)
-- [Fonts](#docs/archviz_links)
-- [Graphics](#docs/archviz_links)
-- [HDRI](#docs/archviz_links)
-- [Photos](#docs/archviz_links)
-- [References](#docs/archviz_links)
-- [Rigs](#docs/archviz_links)
-- [Textures](#docs/archviz_links)
-- [Video](#docs/archviz_links)
-
-
-## General archviz
-- [archviz links](#docs/archviz_links)
-- [Archviz tips](#docs/archviz_tips)
-- [Software](#docs/software)
-
-##Blender
-- [Blender addons](#docs/blender_addons)
-###Model
-- [OpenStreetMap](#docs/openstreetmap)
-###Materials
-- [Archviz glass](#docs/archviz_glass)
-###Lighting
-- [External](#docs/external_lighting)
-- [Interior](#docs/interior_lighting)
-###Comp
-- [Materials ID mask](#docs/material_id)
-###Render
-- [Faster renders](#docs/cycles_render_tips)
-- [Light portals](#docs/light_portals)
-
-
+- [Audio](#docs/assets_audio)
+- [Fonts](#docs/assets_fonts)
+- [Icons](#docs/assets_icons)
+- [Graphics](#docs/assets_graphics)
+- [HDRI](#docs/assets_hdri)
+- [Photos](#docs/assets_photos)
+- [References](#docs/assets_references)
+- [Rigs](#docs/assets_rigs)
+- [Textures](#docs/assets_textures)
+- [Video](#docs/assets_video)
 
 
 
