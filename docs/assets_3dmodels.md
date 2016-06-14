@@ -1,1 +1,15 @@
-
+#3D Models
+*   [3dsky](http://3dsky.org/)
+*   [Archive 3D](http://archive3d.net/)
+*   [Blend Swap](http://www.blendswap.com/)
+*   [Blender for Architecture](http://blender-archi.tuxfamily.org/)
+*   [CGTrader](https://www.cgtrader.com/free-3d-models)
+*   [Designconnected free 3D models](https://www.designconnected.com/catalog/3D-Models/Free)
+*   [Dimensiva](http://dimensiva.com/)
+*   [model+model (free)](http://www.modelplusmodel.com/free.html)
+*   [NASA 3D Resources](http://nasa3d.arc.nasa.gov/)
+*   [OpenGameArt.org](http://opengameart.org/)
+*   [Resources.blogscopia.com](http://resources.blogscopia.com/)
+*   [TurboSquid](http://www.turbosquid.com/index.cfm)
+*   [VizPeople Free stuff section](http://www.viz-people.com/free-stuff/)
+*   [xoio-air](http://xoio-air.de/)
