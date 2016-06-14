@@ -4,24 +4,16 @@
 
 
 ## SOFTWARE
-
-### Infrastructure
-- [Audio](#docs/sw_infrastructure_audio)
-### Pre-production
-- [Audio](#docs/sw_pre_audio)
-### Production – 3D
-- [Audio](#docs/sw_prod3d_audio)
-### Production – 2D
-- [Audio](#docs/sw_prod2d_audio)
-### Production – Other
-- [Audio](#docs/sw_prod_stopmotion)
-- [Audio](#docs/sw_prod_gameengines)
-- [Audio](#docs/sw_prod_other)
-### Post-production
-- [Audio](#docs/sw_post_audio)
-### Other Useful
-- [Audio](#docs/sw_other_distribution)
-
+- [Infrastructure](#docs/sw_infrastructure)
+- [Pre-production](#docs/sw_preprod)
+- [Production – 3D](#docs/sw_prod3d)
+- [Production – 2D](#docs/sw_prod2d)
+- [Stopmotion](#docs/sw_prod_stopmotion)
+- [Game engines](#docs/sw_prod_gameengines)
+- [Production - Other](#docs/sw_prod_other)
+- [Post-production](#docs/sw_postprod)
+- [Distribution](#docs/sw_other_distribution)
+- [Other Useful](#docs/sw_other_useful)
 ## ASSETS
 - [3D Models](#docs/assets_3dmodels)
 - [Audio](#docs/assets_audio)
