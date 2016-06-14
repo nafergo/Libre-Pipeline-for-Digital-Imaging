@@ -1,1 +1,10 @@
-
+# Other Useful
+*   [ColorHug](http://www.hughski.com/)
+*   [ColorTribe](http://opensource.mikrosimage.eu/colortribe.html)
+*   [darktable](http://www.darktable.org/)
+*   [FontForge](http://fontforge.org/)
+*   [Gnome Subtitles](http://gnomesubtitles.org/)
+*   [LightZone](http://lightzoneproject.org/)
+*   [metaflop](http://www.metaflop.com/)
+*   [RawTherapee](http://www.rawtherapee.com/)
+*   [Scribus](http://www.scribus.net)
