@@ -8,3 +8,4 @@
 *   [Stopmotion](http://stopmotion.bjoernen.com/)
 *   [Stop Motion Capture](http://smcapture.sourceforge.net/)
 *   [Toonloop](http://toonloop.com/)
+ 
