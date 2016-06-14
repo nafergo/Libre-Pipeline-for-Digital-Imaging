@@ -29,13 +29,12 @@
 - [Video](#docs/assets_video)
 
 
-##About us
+###About us
 - [About us](#docs/about_us)
 - [Donations](#docs/donations)
 - [Contacts](#docs/contact_us)
 
-#### ditto
-
+##### ditto
 powered by [ditto](https://github.com/chutsu/ditto/)
 - [How do I use](#docs/how_do_i_use_ditto)
 - [How does it work](#docs/how_does_it_work)
