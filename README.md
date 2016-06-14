@@ -1,8 +1,8 @@
-# nafergo's Blender notes
+# Libre Pipeline for Animation
 
 
 
-### nafergo's Blender notes LICENSE
+### Libre Pipeline for Animation LICENSE
 CC-BY-SA
 
 
