@@ -5,6 +5,7 @@
 ### Libre Pipeline for Animation LICENSE
 CC-BY-SA
 
+http://nafergo.github.io/Libre-Pipeline-for-Animation/ 
 
 # Welcome!
 
