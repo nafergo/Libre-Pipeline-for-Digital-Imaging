@@ -22,6 +22,7 @@
 *   [Picogen](http://picogen.org/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [ShapeWright](http://ship.shapewright.com/)
+*   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
 
