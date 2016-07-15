@@ -1,15 +1,15 @@
-# Libre Pipeline for Animation
+# Libre Pipeline for CGI
 
 
 
-### Libre Pipeline for Animation LICENSE
+### Libre Pipeline for CGI LICENSE
 CC-BY-SA
 
 http://nafergo.github.io/Libre-Pipeline-for-Animation/ 
 
 # Welcome!
 
-The Libre Pipeline for Animation project is a directory with links to Free/Libre and Open Source Software and resources or assets (3D models, photos, HDRI, sounds, etc.) that you can use in an animation movie production.
+The Libre Pipeline for CGI project is a directory with links to Free/Libre and Open Source Software and resources or assets (3D models, photos, HDRI, sounds, etc.) that you can use in an animation movie production.
 
 Users with tablets and mobile devices might be interested to know that the Libre Pipeline for Animation is also available as a webapp for [Android](https://play.google.com/store/apps/details?id=xdk.intel.librepipelineforanimation) and [Ubuntu Touch](https://uappexplorer.com/app/librepipelineforanimation.nafergo).
 
