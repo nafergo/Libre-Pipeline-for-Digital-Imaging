@@ -1,4 +1,7 @@
 # Production – 2D
+
+
+## Animation
 *   [Blender (grease pencil tool)](https://www.blender.org/)
 *   [Blender Lightbox](http://malefico3d.github.io/blender2d/)
 *   [Dopey](https://github.com/davissorenson/dopey)
@@ -14,3 +17,10 @@
 *   [VPaint](http://vpaint.org/)
 *   [X-Sheet MyPaint](https://gitorious.org/~manuq/mypaint/xsheet-mypaint)
 
+## Vector graphics
+
+## Raster graphics
+
+## Photo software
+
+## jjj
