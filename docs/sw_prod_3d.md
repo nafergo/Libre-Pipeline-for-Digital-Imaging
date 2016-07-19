@@ -1,5 +1,9 @@
 # Production – 3D
 
+## 3D Printing (slicing)
+*   [Cura](https://ultimaker.com/en/products/cura-software)
+*   [Slic3r](http://slic3r.org/)
+
 ## Modeling
 *   [Arbaro](http://arbaro.sourceforge.net/)
 *   [Art of Illusion](http://www.artofillusion.org/)
@@ -25,16 +29,6 @@
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
-
-## Rigging
-*   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
-*   [OpenFX](http://www.openfx.org/)
-
-## Layout
-*   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
-*   [OpenFX](http://www.openfx.org/)
 
 ## Animation
 *   [Art of Illusion](http://www.artofillusion.org/)
@@ -76,11 +70,6 @@
 *   [ShaderToolsNG](https://github.com/tinangel/ShaderToolsNG)
 *   [sK1](http://sk1project.org/)
 *   [SSbump Generator](http://ssbump-generator.yolasite.com/)
-
-## Lighting
-*   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
-*   [OpenFX](http://www.openfx.org/)
 
 ## Rendering
 *   [appleseed](http://appleseedhq.net/)
