@@ -20,7 +20,7 @@
 ## Vector graphics
 *   [Inkscape](http://inkscape.org/)
 *   [sK1](http://sk1project.org/)
-*
+
 ## Raster graphics
 *   [Brushes](http://www.brushesapp.com/)
 *   [GIMP](http://www.gimp.org/)
