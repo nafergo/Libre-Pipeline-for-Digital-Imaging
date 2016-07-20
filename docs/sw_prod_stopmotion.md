@@ -1,3 +1,0 @@
-# Production – Stopmotion
-
- 
