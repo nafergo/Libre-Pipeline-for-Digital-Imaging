@@ -31,4 +31,11 @@
 *   [MyPaint](http://mypaint.intilinux.com/)
 
 ## Photo software
+*   [darktable](http://www.darktable.org/)
+*   [LightZone](http://lightzoneproject.org/)
+*   [RawTherapee](http://www.rawtherapee.com/)
+*   
+## 2D CAD
+*   [CADemia](http://www.cademia.de/en/)
+*   [LibreCAD](http://librecad.org/cms/home.html)
 
