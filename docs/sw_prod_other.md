@@ -1,6 +1,6 @@
 # Production – Other
 
-## Stopmotion
+## Stop motion
 *   [Frameworks](http://frameworks.polycrystal.org/)
 *   [Helium Frog Animator](http://www.heliumfrog.net63.net/heliumfrogindex.html)
 *   [Luciole](http://festival.inattendu.org/Luciole-Linux)
@@ -10,7 +10,7 @@
 *   [Stopmotion](http://stopmotion.bjoernen.com/)
 *   [Stop Motion Capture](http://smcapture.sourceforge.net/)
 *   [Toonloop](http://toonloop.com/)
-*   
+
 
 ## Other animation techniques
 *   [Animata](http://animata.kibu.hu/)
