@@ -18,9 +18,17 @@
 *   [X-Sheet MyPaint](https://gitorious.org/~manuq/mypaint/xsheet-mypaint)
 
 ## Vector graphics
-
+*   [Inkscape](http://inkscape.org/)
+*   [sK1](http://sk1project.org/)
+*
 ## Raster graphics
+*   [Brushes](http://www.brushesapp.com/)
+*   [GIMP](http://www.gimp.org/)
+*   [G’MIC](http://gmic.sourceforge.net)
+*   [Hugin](http://hugin.sourceforge.net)
+*   [ImageMagick](http://www.imagemagick.org)
+*   [Krita](http://krita.org/)
+*   [MyPaint](http://mypaint.intilinux.com/)
 
 ## Photo software
 
-## jjj
