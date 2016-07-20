@@ -23,6 +23,7 @@
 
 ## Raster graphics
 *   [Brushes](http://www.brushesapp.com/)
+*   [CinePaint](http://www.cinepaint.org/)
 *   [GIMP](http://www.gimp.org/)
 *   [G’MIC](http://gmic.sourceforge.net)
 *   [Hugin](http://hugin.sourceforge.net)
