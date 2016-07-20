@@ -3,7 +3,6 @@
 ## Retouch
 *   [CinePaint](http://www.cinepaint.org/)
 *   [GIMP](http://www.gimp.org/)
-*   [Hugin](http://hugin.sourceforge.net)
 *   [ImageMagick](http://www.imagemagick.org)
 *   [Krita](http://krita.org/)
 
