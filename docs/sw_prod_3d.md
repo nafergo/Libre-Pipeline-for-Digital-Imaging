@@ -10,8 +10,10 @@
 *   [Assimp (Open Asset Import Library)](http://www.assimp.org/)
 *   [Ayam](http://ayam.sourceforge.net/)
 *   [Blender](http://www.blender.org/)
+*   [BRL-CAD](http://brlcad.org/)
 *   [CanTree](http://arnaud.ile.nc/cantree/)
 *   [Dilay](http://abau.org/dilay/index.html)
+*   [FreeCAD](http://www.freecadweb.org/)
 *   [Insight3D](http://insight3d.sourceforge.net/)
 *   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
@@ -23,16 +25,24 @@
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
 *   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OpenFX](http://www.openfx.org/)
+*   [OpenSCAD](http://www.openscad.org/)
+*   [OSM2World](http://osm2world.org/)
 *   [Picogen](http://picogen.org/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [ShapeWright](http://ship.shapewright.com/)
+*   [Sweet Home 3D](http://www.sweethome3d.com/)
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
-Free cad etc
 
-OSM2World
+
 ## Photogrammetry
+*   [ArcheOS](http://www.archeos.eu/)
+*   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
+*   [OpenMVS](http://cdcseacave.github.io/openMVS/)
+*   [Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php)
+*   [VisualSFM](http://ccwu.me/vsfm/)
+
 
 ## Animation
 *   [Art of Illusion](http://www.artofillusion.org/)
@@ -45,9 +55,6 @@ OSM2World
 *   [QAvimator](http://qavimator.org/)
 
 ## Shading
-*   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
-*   [OpenFX](http://www.openfx.org/)
 *   [Open Shading Language](http://code.google.com/p/openshadinglanguage/)
 
 ## Textures
@@ -56,13 +63,9 @@ OSM2World
 *   [Brushes](http://www.brushesapp.com/)
 *   [cmftStudio](https://github.com/dariomanesku/cmftStudio)
 *   [FxGen](http://sourceforge.net/projects/fxgen/)
-*   [G’MIC](http://gmic.sourceforge.net)
 *   [GIMP](http://www.gimp.org/)
     *   [Insane Bump (Gimp plugin)](http://registry.gimp.org/node/28638)
     *   [GIMP normalmap](http://code.google.com/p/gimp-normalmap/)
-*   [Hugin](http://hugin.sourceforge.net)
-*   [ImageMagick](http://www.imagemagick.org)
-*   [Inkscape](http://inkscape.org/)
 *   [Insane Bump (standalone)](https://sites.google.com/site/ccdsurgeon/downloadhttp://)
 *   [Krita](http://krita.org/)
 *   [KulerIslands](https://github.com/JokerMartini/KulerIslands)
@@ -72,7 +75,6 @@ OSM2World
 *   [Phatch](http://photobatch.stani.be/)
 *   [Roadkill](http://www.pullin-shapes.co.uk/page8.htm)
 *   [ShaderToolsNG](https://github.com/tinangel/ShaderToolsNG)
-*   [sK1](http://sk1project.org/)
 *   [SSbump Generator](http://ssbump-generator.yolasite.com/)
 
 ## Rendering
