@@ -9,7 +9,6 @@
 - [Production – 3D](#docs/sw_prod_3d)
 - [Production – 2D](#docs/sw_prod_2d)
 - [Virtual Reality](#docs/sw_prod_vr)
-- [Stopmotion](#docs/sw_prod_stopmotion)
 - [Game engines](#docs/sw_prod_gameengines)
 - [Production - Other](#docs/sw_prod_other)
 - [Post-production](#docs/sw_postprod)
