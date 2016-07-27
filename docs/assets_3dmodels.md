@@ -13,3 +13,18 @@
 *   [TurboSquid](http://www.turbosquid.com/index.cfm)
 *   [VizPeople Free stuff section](http://www.viz-people.com/free-stuff/)
 *   [xoio-air](http://xoio-air.de/)
+
+
+## 3D printable
+*   [GrabCAD](https://grabcad.com/)
+*   [Instructables](http://www.instructables.com/)
+*   [My Mini Factory](https://www.myminifactory.com/)
+*   [NASA 3D printable](http://nasa3d.arc.nasa.gov/models/printable)
+*   [Pinshape](https://pinshape.com/)
+*   [Sketchfab](https://sketchfab.com/)
+*   [Thingiverse](http://www.thingiverse.com/)
+*   [YouMagine](https://www.youmagine.com/)
+
+### Search Engine for 3D printable Models
+*   [yeggi](http://www.yeggi.com/)
+
