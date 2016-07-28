@@ -55,7 +55,9 @@
 *   [QAvimator](http://qavimator.org/)
 
 ## Shading
+*   [BRDF Explorer](http://www.disneyanimation.com/technology/brdf.html)
 *   [Open Shading Language](http://code.google.com/p/openshadinglanguage/)
+*   [PBRViewer](http://www.alexandre-pestana.com/tag/pbrviewer/)
 
 ## Textures
 *   [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
