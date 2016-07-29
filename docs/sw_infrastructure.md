@@ -88,6 +88,8 @@
 *   [Alembic](http://www.alembic.io/)
 *   [COLLADA](https://collada.org/)
 *   [FLIF](http://flif.info/)
+*   [gITF](https://github.com/KhronosGroup/glTF)
+*   [MaterialX](http://www.materialx.org/)
 *   [Matroska](http://www.matroska.org/)
 *   [OpenEXR](http://www.openexr.com/)
 *   [OpenRaster](http://freedesktop.org/wiki/Specifications/OpenRaster)
@@ -96,3 +98,5 @@
 *   [Theora](http://www.theora.org/)
 *   [Vorbis](http://www.vorbis.com/)
 *   [WebM](http://www.webmproject.org/)
+*   [WebP](https://developers.google.com/speed/webp/)
+
