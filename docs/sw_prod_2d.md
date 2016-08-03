@@ -42,7 +42,9 @@
 
 ## Vector graphics
 *   [Inkscape](http://inkscape.org/)
+*   [Karbon](https://www.calligra.org/karbon/)
 *   [sK1](http://sk1project.org/)
+*   [SVG-Edit](https://github.com/SVG-Edit/svgedit)
 
 ## Drawing
 *   [Alchemy](http://al.chemy.org/)
