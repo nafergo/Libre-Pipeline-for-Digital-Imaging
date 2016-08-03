@@ -17,6 +17,11 @@
 *   [VPaint](http://vpaint.org/)
 *   [X-Sheet MyPaint](https://gitorious.org/~manuq/mypaint/xsheet-mypaint)
 
+
+### Lipsync
+*   [JLipSync](http://sourceforge.net/projects/jlipsync/)
+*   [Papagayo](http://www.lostmarble.com/papagayo/)
+
 ## Vector graphics
 *   [Inkscape](http://inkscape.org/)
 *   [sK1](http://sk1project.org/)
