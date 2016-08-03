@@ -16,13 +16,8 @@
 *   [Trelby](http://www.trelby.org/)
 
 ## Concept Art
-*   [Alchemy](http://al.chemy.org/)
-*   [Agave](http://home.gna.org/colorscheme/)
-*   [Brushes](http://www.brushesapp.com/)
-*   [GIMP Paint Studio](http://code.google.com/p/gps-gimp-paint-studio/)
-*   [gpick](http://code.google.com/p/gpick/)
-*   [MyPaint](http://mypaint.intilinux.com/)
-*   [Krita](http://krita.org/)
+*   Check the Drawing section of [Prod – 2D](#docs/sw_prod_2d/)
+*   Check the Color section of  [Other Useful](#docs/sw_other_useful)
 
 ## Storyboard
 *   [Animix](http://animix.sourceforge.net/)
@@ -32,3 +27,4 @@
 *   [Krita](http://krita.org/)
 *   [Paperdreamer](https://github.com/Paperdreamer/frontend)
 *   [Storyboard Fountain](http://storyboardfountain.com)
+*   [Tupi](http://www.maefloresta.com/portal/)
