@@ -5,14 +5,16 @@
 *   [Jokosher](http://www.jokosher.org)
 *   [LMMS](http://lmms.sourceforge.net/)
 *   [MusE](http://muse-sequencer.org/)
-*   [MuseScore](https://musescore.org/)
 *   [Open Octave](http://www.openoctave.org/)
 *   [Qtractor](http://qtractor.sourceforge.net/)
-*   [Rosegarden](http://www.rosegardenmusic.com/)
 *   [ReZound](http://rezound.sourceforge.net/)
 *   [Traverso DAW](http://traverso-daw.org/)
 *   [ZynAddSubFX](http://zynaddsubfx.sourceforge.net/)
 
+
+## Music scoring
+*   [MuseScore](https://musescore.org/)
+*   [Rosegarden](http://www.rosegardenmusic.com/)
 
 ## DAW
 *   [Ardour](http://ardour.org/)
