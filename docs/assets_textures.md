@@ -7,6 +7,7 @@
 *   [Blend Swap](http://www.blendswap.com/)
 *   [Blender for Architecture](http://blender-archi.tuxfamily.org/)
 *   [Blendermada](http://blendermada.com/)
+*   [Brusheezy](https://www.brusheezy.com/)
 *   [CG Textures (now Textures.com)](http://www.cgtextures.com/)
 *   [David Gurrea textures](http://www.davegh.com/)
 *   [Episcura](http://episcura.com/)
