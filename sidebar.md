@@ -19,13 +19,14 @@
 - [3D Models](#docs/assets_3dmodels)
 - [Audio](#docs/assets_audio)
 - [Fonts](#docs/assets_fonts)
-- [Icons](#docs/assets_icons)
 - [Graphics](#docs/assets_graphics)
 - [HDRI](#docs/assets_hdri)
+- [Icons](#docs/assets_icons)
 - [Photos](#docs/assets_photos)
 - [References](#docs/assets_references)
 - [Rigs](#docs/assets_rigs)
 - [Textures](#docs/assets_textures)
+- [Themes](#docs/assets_themes)
 - [Video](#docs/assets_video)
 
 
