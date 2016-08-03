@@ -1,4 +1,5 @@
 #Video
+*   [ActionVFX](https://www.actionvfx.com/)
 *   [AllTheFreeStock.com](http://allthefreestock.com/)
 *   [FootageCrate](http://footagecrate.com/)
 *   [Life of Vids](http://www.lifeofvids.com/)
@@ -6,4 +7,6 @@
 *   [OpenFootage.net](http://www.openfootage.net/)
 *   [Pexels Videos](https://videos.pexels.com/)
 *   [Pixabay](https://pixabay.com/)
+*   [Videezy](https://www.videezy.com/)
 *   [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
