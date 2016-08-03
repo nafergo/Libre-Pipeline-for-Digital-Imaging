@@ -8,6 +8,7 @@
 - [Pre-production](#docs/sw_preprod)
 - [Prod – 3D](#docs/sw_prod_3d)
 - [Prod – 2D](#docs/sw_prod_2d)
+- [Prod – Video](#docs/sw_prod_audio)
 - [Prod – Video](#docs/sw_prod_video)
 - [Prod – VR & 360](#docs/sw_prod_vr)
 - [Prod – Game engines](#docs/sw_prod_gameengines)
