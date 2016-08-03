@@ -1,6 +1,5 @@
 # Production – 2D
 
-
 ## Animation
 *   [Blender (grease pencil tool)](https://www.blender.org/)
 *   [Blender Lightbox](http://malefico3d.github.io/blender2d/)
@@ -21,6 +20,26 @@
 ### Lipsync
 *   [JLipSync](http://sourceforge.net/projects/jlipsync/)
 *   [Papagayo](http://www.lostmarble.com/papagayo/)
+
+
+## Stop motion
+*   [Frameworks](http://frameworks.polycrystal.org/)
+*   [Helium Frog Animator](http://www.heliumfrog.net63.net/heliumfrogindex.html)
+*   [Luciole](http://festival.inattendu.org/Luciole-Linux)
+*   [MUAN](http://www.muan.org.br)
+*   [qStopMotion](http://www.qstopmotion.org/)
+*   [StopMojo](http://www.mondobeyondo.com/projects/stopmojo/)
+*   [Stopmotion](http://stopmotion.bjoernen.com/)
+*   [Stop Motion Capture](http://smcapture.sourceforge.net/)
+*   [Toonloop](http://toonloop.com/)
+
+
+## Mocap
+*   [OpenMoCap](http://code.google.com/p/openmocap/)
+
+## Other animation techniques
+*   [Animata](http://animata.kibu.hu/)
+
 
 ## Vector graphics
 *   [Inkscape](http://inkscape.org/)
