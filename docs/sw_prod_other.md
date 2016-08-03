@@ -12,10 +12,12 @@
 *   [Toonloop](http://toonloop.com/)
 
 
+## Mocap
+*   [OpenMoCap](http://code.google.com/p/openmocap/)
+
 ## Other animation techniques
 *   [Animata](http://animata.kibu.hu/)
 *   [Luz Studio](http://lighttroupe.com/luz/)
-*   [OpenMoCap](http://code.google.com/p/openmocap/)
 *   [OpenTLD](https://github.com/zk00006/OpenTLD)
 *   [Processing](http://processing.org/)
 
@@ -26,3 +28,8 @@
 
 ## Desktop publishing
 *   [Scribus](http://www.scribus.net)
+
+
+## Projection mapping
+*   [LPMT](http://hv-a.com/lpmt/)
+
