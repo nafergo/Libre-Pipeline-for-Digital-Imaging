@@ -1,14 +1,9 @@
 # Pre-production
 
 ## Ideas & Concepts
-*   [Dia](https://live.gnome.org/Dia)
-*   [Flow](http://www.calligra.org/flow/)
-*   [FreeMind](http://freemind.sourceforge.net/)
 *   [LibreOffice](http://www.libreoffice.org/)
 *   [OpenOffice](http://www.openoffice.org/)
-*   [Visual Understanding Environment](http://vue.tufts.edu/)
-
-check [Prod – 2D](#docs/sw_prod_2d/## Diagrams, mindmaps)
+*   Check the Diagrams & mindmaps section of [Prod – 2D](#docs/sw_prod_2d/)
 
 
 ## Script
