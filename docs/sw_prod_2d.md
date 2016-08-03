@@ -1,6 +1,7 @@
 # Production – 2D
 
 ## Animation
+###2D & tradigital
 *   [Blender (grease pencil tool)](https://www.blender.org/)
 *   [Blender Lightbox](http://malefico3d.github.io/blender2d/)
 *   [Dopey](https://github.com/davissorenson/dopey)
@@ -16,13 +17,11 @@
 *   [VPaint](http://vpaint.org/)
 *   [X-Sheet MyPaint](https://gitorious.org/~manuq/mypaint/xsheet-mypaint)
 
-
 ### Lipsync
 *   [JLipSync](http://sourceforge.net/projects/jlipsync/)
 *   [Papagayo](http://www.lostmarble.com/papagayo/)
 
-
-## Stop motion
+### Stop motion
 *   [Frameworks](http://frameworks.polycrystal.org/)
 *   [Helium Frog Animator](http://www.heliumfrog.net63.net/heliumfrogindex.html)
 *   [Luciole](http://festival.inattendu.org/Luciole-Linux)
@@ -34,10 +33,10 @@
 *   [Toonloop](http://toonloop.com/)
 
 
-## Mocap
+### Mocap
 *   [OpenMoCap](http://code.google.com/p/openmocap/)
 
-## Other animation techniques
+### Other animation techniques
 *   [Animata](http://animata.kibu.hu/)
 
 
@@ -45,22 +44,36 @@
 *   [Inkscape](http://inkscape.org/)
 *   [sK1](http://sk1project.org/)
 
-## Raster graphics
+## Drawing
+*   [Alchemy](http://al.chemy.org/)
 *   [Brushes](http://www.brushesapp.com/)
 *   [CinePaint](http://www.cinepaint.org/)
 *   [GIMP](http://www.gimp.org/)
+*   [GIMP Paint Studio](http://code.google.com/p/gps-gimp-paint-studio/)
 *   [G’MIC](http://gmic.sourceforge.net)
 *   [Hugin](http://hugin.sourceforge.net)
 *   [ImageMagick](http://www.imagemagick.org)
 *   [Krita](http://krita.org/)
 *   [MyPaint](http://mypaint.intilinux.com/)
 
-## Photo software
+
+## Photography
 *   [darktable](http://www.darktable.org/)
+*   [Entangle](https://entangle-photo.org/)
 *   [LightZone](http://lightzoneproject.org/)
+*   [RawStudio](https://rawstudio.org/)
 *   [RawTherapee](http://www.rawtherapee.com/)
+
 
 ## 2D CAD
 *   [CADemia](http://www.cademia.de/en/)
 *   [LibreCAD](http://librecad.org/cms/home.html)
+
+
+## Diagrams, mindmaps
+*   [DIA](https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia)
+*   [Flow](https://www.calligra.org/flow/)
+*   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+*   [Visual Understanding Environment (VUE)](http://vue.tufts.edu/)
+*   [View Your Mind (VYM)](http://www.insilmaril.de/vym/)
 
