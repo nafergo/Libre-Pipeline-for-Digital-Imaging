@@ -6,21 +6,17 @@
 *   [metaflop](http://www.metaflop.com/)
 
 ## Desktop publishing
+*   [Calibre](https://calibre-ebook.com/)
+*   [PDFedit](http://pdfedit.cz/en/index.html)
 *   [Scribus](http://www.scribus.net)
-
-
-## Projection mapping
-*   [LPMT](http://hv-a.com/lpmt/)
+*   [Sigil](https://sigil-ebook.com/)
 
 ## Creative coding
 *   [Processing](http://processing.org/)
-   
-## VJing (live video mix)
-*   [Elektronika Live](http://aestesis.eu/elektronika/)
-*   [FreeJ](https://www.dyne.org/software/freej/)
-*   [Gephex](http://www.gephex.org/)
-*   [Moldeo](http://www.moldeo.org/)
-*   [OpenTZT](http://opentzt.sourceforge.net/)
-*   [Synaesthesia](http://www.logarithmic.net/pfh/synaesthesia)
-*   [Veejay](http://www.veejayhq.net/)
-*   [VSXu](http://www.vsxu.com/)
+
+
+## Generative, fractals
+*   [Apophysis](http://apophysis.org/)
+*   [Evolvotron](http://www.bottlenose.net/share/evolvotron/)
+*   [fraqtive](http://fraqtive.mimec.org/)
+*   [Mandelbulber](http://www.mandelbulber.com/)
