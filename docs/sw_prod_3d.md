@@ -49,10 +49,12 @@
 *   [Blender](http://www.blender.org/)
 *   [BVHplay](https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay)
 *   [Helix](http://code.google.com/p/helixproject/)
-*   [JLipSync](http://sourceforge.net/projects/jlipsync/)
 *   [OpenFX](http://www.openfx.org/)
-*   [Papagayo](http://www.lostmarble.com/papagayo/)
 *   [QAvimator](http://qavimator.org/)
+
+### Lipsync
+*   [JLipSync](http://sourceforge.net/projects/jlipsync/)
+*   [Papagayo](http://www.lostmarble.com/papagayo/)
 
 ## Shading
 *   [BRDF Explorer](http://www.disneyanimation.com/technology/brdf.html)
