@@ -71,6 +71,8 @@
 ## 2D CAD
 *   [CADemia](http://www.cademia.de/en/)
 *   [LibreCAD](http://librecad.org/cms/home.html)
+*   [SagCAD](http://sagcad.osdn.jp/)
+
 
 
 ## Diagrams, mindmaps
