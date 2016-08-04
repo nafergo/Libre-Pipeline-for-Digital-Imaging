@@ -5,43 +5,66 @@
 *   [Slic3r](http://slic3r.org/)
 
 ## Modeling
-*   [Arbaro](http://arbaro.sourceforge.net/)
 *   [Art of Illusion](http://www.artofillusion.org/)
-*   [Assimp (Open Asset Import Library)](http://www.assimp.org/)
 *   [Ayam](http://ayam.sourceforge.net/)
 *   [Blender](http://www.blender.org/)
-*   [BRL-CAD](http://brlcad.org/)
 *   [CanTree](http://arnaud.ile.nc/cantree/)
 *   [Dilay](http://abau.org/dilay/index.html)
-*   [FreeCAD](http://www.freecadweb.org/)
-*   [Insight3D](http://insight3d.sourceforge.net/)
 *   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
 *   [Lithosphere](http://lithosphere.codeflow.org/)
-*   [MakeHuman](http://www.makehuman.org/)
 *   [MakerScanner](http://www.makerscanner.com/)
-*   [Manuel Bastioni Lab](http://www.manuelbastioni.com/index.php)
 *   [MeshLab](http://meshlab.sourceforge.net/)
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
 *   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OpenFX](http://www.openfx.org/)
-*   [OpenSCAD](http://www.openscad.org/)
-*   [OSM2World](http://osm2world.org/)
-*   [Picogen](http://picogen.org/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [ShapeWright](http://ship.shapewright.com/)
 *   [Sweet Home 3D](http://www.sweethome3d.com/)
-*   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
 
+## Generators
+### Landscape
+*   [Fracplanet](http://www.bottlenose.net/share/fracplanet/index.htm)
+*   [Mandelbulber](http://www.mandelbulber.com/)
+*   [Picogen](http://picogen.org/)
+
+### Tree/plant
+*   [Arbaro](http://arbaro.sourceforge.net/)
+*   [ngPlantArbaro](http://ngplant.org/)
+*   [powerPlant](https://sourceforge.net/projects/pplant/)
+*   [TreeGen](https://sourceforge.net/projects/treegen/)
+*   [Vegetation3D](http://vegetation3d.sourceforge.net/)
+
+
+### Characters
+*   [MakeHuman](http://www.makehuman.org/)
+*   [Manuel Bastioni Lab](http://www.manuelbastioni.com/index.php)
+
+## CAD 3D
+*   [BRL-CAD](http://brlcad.org/)
+*   [FreeCAD](http://www.freecadweb.org/)
+*   [NaroCAD](http://narocad.com/)
+*   [OpenSCAD](http://www.openscad.org/)
+
+## Import/Export, conversion
+*   [Assimp (Open Asset Import Library)](http://www.assimp.org/)
+*   [heightmap2stl](https://sourceforge.net/projects/heightmap2stl/)
+*   [mesh2hmap](http://mesh2hmap.sourceforge.net/)
+*   [OSM2World](http://osm2world.org/)
+*   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 
 ## Photogrammetry
 *   [ArcheOS](http://www.archeos.eu/)
+*   [Insight3D](http://insight3d.sourceforge.net/)
+*   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
 *   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
 *   [OpenMVS](http://cdcseacave.github.io/openMVS/)
 *   [Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php)
+*   [Regard3D](http://www.regard3d.org/index.php)
 *   [VisualSFM](http://ccwu.me/vsfm/)
+
 
 
 ## Animation
