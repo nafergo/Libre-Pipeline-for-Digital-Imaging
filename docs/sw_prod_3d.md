@@ -8,30 +8,34 @@
 *   [Art of Illusion](http://www.artofillusion.org/)
 *   [Ayam](http://ayam.sourceforge.net/)
 *   [Blender](http://www.blender.org/)
-*   [CanTree](http://arnaud.ile.nc/cantree/)
 *   [Dilay](http://abau.org/dilay/index.html)
 *   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
-*   [Lithosphere](http://lithosphere.codeflow.org/)
 *   [MakerScanner](http://www.makerscanner.com/)
 *   [MeshLab](http://meshlab.sourceforge.net/)
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
-*   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OpenFX](http://www.openfx.org/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [ShapeWright](http://ship.shapewright.com/)
-*   [Sweet Home 3D](http://www.sweethome3d.com/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
+
+
+###Interior design
+*   [Fluid Designer](http://www.microvellum.com/products/fluid-designer/)
+*   [Sweet Home 3D](http://www.sweethome3d.com/)
+
 
 ## Generators
 ### Landscape
 *   [Fracplanet](http://www.bottlenose.net/share/fracplanet/index.htm)
+*   [Lithosphere](http://lithosphere.codeflow.org/)
 *   [Mandelbulber](http://www.mandelbulber.com/)
 *   [Picogen](http://picogen.org/)
 
 ### Tree/plant
 *   [Arbaro](http://arbaro.sourceforge.net/)
+*   [CanTree](http://arnaud.ile.nc/cantree/)
 *   [ngPlantArbaro](http://ngplant.org/)
 *   [powerPlant](https://sourceforge.net/projects/pplant/)
 *   [TreeGen](https://sourceforge.net/projects/treegen/)
@@ -48,10 +52,11 @@
 *   [NaroCAD](http://narocad.com/)
 *   [OpenSCAD](http://www.openscad.org/)
 
-## Import/Export, conversion
+## Utilities: import/Export, conversion, viewer
 *   [Assimp (Open Asset Import Library)](http://www.assimp.org/)
 *   [heightmap2stl](https://sourceforge.net/projects/heightmap2stl/)
 *   [mesh2hmap](http://mesh2hmap.sourceforge.net/)
+*   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OSM2World](http://osm2world.org/)
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 
