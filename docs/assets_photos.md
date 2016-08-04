@@ -1,5 +1,7 @@
 #Photos
+*   [1001 Free Downloads](http://www.1001freedownloads.com/)
 *   [AllTheFreeStock.com](http://allthefreestock.com/)
+*   [Freepik](http://www.freepik.com/)
 *   [Gratisography](http://www.gratisography.com/)
 *   [Image*After](http://imageafter.com/index.php)
 *   [Life of Pix](http://www.lifeofpix.com/)
