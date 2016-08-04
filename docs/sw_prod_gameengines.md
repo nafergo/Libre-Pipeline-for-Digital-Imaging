@@ -13,6 +13,7 @@
 *   [Blender](http://www.blender.org)
 *   [Crystal Space](http://www.crystalspace3d.org)
 *   [GamePlay](http://www.gameplay3d.io/)
+*   [Genesis3D](http://www.genesis3d.com/)
 *   [Godot](http://www.godotengine.org/)
 *   [jMonkeyEngine](http://jmonkeyengine.org/)
 *   [Maratis](http://www.maratis3d.com/)
