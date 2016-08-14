@@ -1,4 +1,8 @@
 #3D Models
+*   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, 
+as well as jewelry related information
+** models of real gemstones, 
+as well as jewelry related information
 *   [3dsky](http://3dsky.org/)
 *   [Archive 3D](http://archive3d.net/)
 *   [Blend Swap](http://www.blendswap.com/)
