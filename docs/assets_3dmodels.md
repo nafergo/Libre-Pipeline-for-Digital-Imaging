@@ -13,7 +13,7 @@
 *   [VizPeople Free stuff section](http://www.viz-people.com/free-stuff/)
 *   [xoio-air](http://xoio-air.de/)
 
-## Thematic
+### Thematic
 *   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, 
 as well as jewelry related information
 *   [NASA 3D Resources](http://nasa3d.arc.nasa.gov/): space related
