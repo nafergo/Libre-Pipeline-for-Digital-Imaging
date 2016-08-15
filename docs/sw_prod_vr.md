@@ -1,12 +1,16 @@
 # Production – Virtual Reality & 360
 
+*   [Google VR](https://developers.google.com/vr/)
+
+Google
+
 ##Web/HTML
-*   [GSVPano - Google Street View util](https://github.com/heganoo/GSVPano)
-*   [OpenSapce3D](http://www.openspace3d.com/)
+*   [GSVPano](https://github.com/heganoo/GSVPano): Google Street View util
+*   [OpenSpace3D](http://www.openspace3d.com/)
 *   [VR view](https://developers.google.com/vr/concepts/vrview)
 
 
 ##Android
-*   [OpenSapce3D](http://www.openspace3d.com/)
+*   [OpenSpace3D](http://www.openspace3d.com/)
 *   [VR view](https://developers.google.com/vr/concepts/vrview)
 
