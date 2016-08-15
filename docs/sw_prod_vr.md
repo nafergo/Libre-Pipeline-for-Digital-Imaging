@@ -2,8 +2,6 @@
 
 *   [Google VR](https://developers.google.com/vr/)
 
-Google
-
 ##Web/HTML
 *   [GSVPano](https://github.com/heganoo/GSVPano): Google Street View util
 *   [OpenSpace3D](http://www.openspace3d.com/)
