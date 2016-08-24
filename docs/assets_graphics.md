@@ -1,5 +1,6 @@
 #Graphics
 *   [1001 Free Downloads](http://www.1001freedownloads.com/)
+*   [All-Silhouettes](http://all-silhouettes.com/)
 *   [AllTheFreeStock.com](http://allthefreestock.com/)
 *   [Brusheezy](https://www.brusheezy.com/)
 *   [Freepik](http://www.freepik.com/)
