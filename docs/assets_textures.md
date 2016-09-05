@@ -1,4 +1,5 @@
 #Textures
+## General
 *   [1001 Free Downloads](http://www.1001freedownloads.com/)
 *   [3DTEXTURES](https://3dtextures.wordpress.com/)
 *   [3DTotal’s FREE Texture & Reference Image Library](http://freetextures.3dtotal.com/)
@@ -31,3 +32,7 @@
 *   [Texturify](http://texturify.com/)
 *   [VizPeople Free stuff section](http://www.viz-people.com/free-stuff/)
 *   [xoio-air](http://xoio-air.de/)
+
+
+## Specific/Thematic
+*   [Depthfields.com](http://depthfields.com/): Free heightmaps
