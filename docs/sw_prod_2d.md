@@ -3,7 +3,8 @@
 ## Animation
 ###2D & tradigital
 *   [Blender (grease pencil tool)](https://www.blender.org/)
-*   [Blender Lightbox](http://malefico3d.github.io/blender2d/)
+*   [Blender Lightbox](http://malefico3d.github.io/blender2d/): 2D animation within Blender
+*   [COA Tools](https://github.com/ndee85/coa_tools): 2D cutout animation within Blender
 *   [Dopey](https://github.com/davissorenson/dopey)
 *   [Ella](http://ella.tuxfamily.org)
 *   [GIMP Animation Package (GAP)](http://www.gimp.org/)
