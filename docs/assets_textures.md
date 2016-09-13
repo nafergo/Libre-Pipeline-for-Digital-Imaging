@@ -13,6 +13,7 @@
 *   [CG Textures (now Textures.com)](http://www.cgtextures.com/)
 *   [David Gurrea textures](http://www.davegh.com/)
 *   [Episcura](http://episcura.com/)
+*   [Free PBR Materials](http://freepbr.com/)
 *   [Free Texture Site.com](http://www.dougturner.net/blendersite/index.html)
 *   [Image*After](http://imageafter.com/index.php)
 *   [Joost Vanhoutte](https://gumroad.com/joost)
