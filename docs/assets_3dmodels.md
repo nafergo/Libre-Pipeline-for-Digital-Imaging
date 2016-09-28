@@ -8,6 +8,7 @@
 *   [CGTrader](https://www.cgtrader.com/free-3d-models)
 *   [Designconnected free 3D models](https://www.designconnected.com/catalog/3D-Models/Free)
 *   [Dimensiva](http://dimensiva.com/)
+*   [lucrea3D](http://www.lucrea3d.com/)
 *   [model+model (free)](http://www.modelplusmodel.com/free.html)
 *   [OpenGameArt.org](http://opengameart.org/)
 *   [Resources.blogscopia.com](http://resources.blogscopia.com/)
@@ -16,9 +17,11 @@
 *   [xoio-air](http://xoio-air.de/)
 
 ### Thematic repository
-*   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, 
-as well as jewelry related information
+*   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, as well as jewelry related information
+*   [B&B Italia](http://www.bebitalia.com/en/):B&B ITALIA products (2D/3D)
 *   [NASA 3D Resources](http://nasa3d.arc.nasa.gov/): space related
+*   [Syncronia](http://www.syncronia.com/): 3D BIM and CAD models of products and surfaces for the Architecture and Interior Design sectors.
+
 
 ###Search Engine for 3D Models
 *   [Yobi3D](https://www.yobi3d.com/#!/)
