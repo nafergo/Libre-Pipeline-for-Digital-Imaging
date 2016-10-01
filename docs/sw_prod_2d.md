@@ -71,6 +71,7 @@
 
 ## 2D CAD
 *   [LibreCAD](http://librecad.org/cms/home.html)
+*   [QCAD](http://www.qcad.org/en/)
 *   [SagCAD](http://sagcad.osdn.jp/)
 
 
