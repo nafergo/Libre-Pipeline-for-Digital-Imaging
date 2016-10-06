@@ -54,11 +54,13 @@
 
 ## Utilities: import/Export, conversion, viewer
 *   [Assimp (Open Asset Import Library)](http://www.assimp.org/)
+*   [BlenderGIS](https://github.com/domlysz/BlenderGIS): Blender addons to make the bridge between Blender and geographic data, OSM import.
 *   [heightmap2stl](https://sourceforge.net/projects/heightmap2stl/)
 *   [mesh2hmap](http://mesh2hmap.sourceforge.net/)
 *   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OSM2World](http://osm2world.org/)
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
+
 
 ## Photogrammetry
 *   [ArcheOS](http://www.archeos.eu/)
