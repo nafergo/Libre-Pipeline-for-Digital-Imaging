@@ -11,6 +11,7 @@
 *   [Urho](https://urho3d.github.io/)
 
 ## 3D (some include 2D)
+*   [Armory](http://armory3d.org/)
 *   [Atomic Game Engine](http://atomicgameengine.com/)
 *   [Blend4Web](https://www.blend4web.com/)
 *   [Blender (Game Engine)](http://www.blender.org)
