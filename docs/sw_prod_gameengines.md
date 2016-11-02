@@ -10,7 +10,7 @@
 *   [Starling](http://gamua.com/starling/)
 *   [Urho](https://urho3d.github.io/)
 
-## 3D (some include 2D)
+## 3D (some include 2D features)
 *   [Armory](http://armory3d.org/)
 *   [Atomic Game Engine](http://atomicgameengine.com/)
 *   [Blend4Web](https://www.blend4web.com/)
@@ -19,6 +19,8 @@
 *   [GamePlay](http://www.gameplay3d.io/)
 *   [Genesis3D](http://www.genesis3d.com/)
 *   [Godot](http://www.godotengine.org/)
+*   [Hatchit](http://thirddegree.github.io/Hatchit/)
+*   [Intrinsic](http://www.intrinsic-engine.com/)
 *   [jMonkeyEngine](http://jmonkeyengine.org/)
 *   [Maratis](http://www.maratis3d.com/)
 *   [OGRE](http://www.ogre3d.org/)
