@@ -2,6 +2,7 @@
 ## General
 ### Repository
 *   [3dsky](http://3dsky.org/)
+*   [3dxy.us](http://3dxy.us/)
 *   [Archive 3D](http://archive3d.net/)
 *   [Blend Swap](http://www.blendswap.com/)
 *   [Blender for Architecture](http://blender-archi.tuxfamily.org/)
