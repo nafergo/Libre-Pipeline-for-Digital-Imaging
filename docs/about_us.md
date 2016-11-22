@@ -1,4 +1,4 @@
-Libre Pipeline for CGI is a personal project of nafergo.
+Libre Pipeline for CGI is a personal project of [nelson gonçalves (aka nafergo)] (http://nafergo.github.io/). 
 
 This directory was created with the purpose of sharing Free/Libre and Open Source Software and assets (photos, hdri, music, rigs, etc.) that can be used in a CGI production with few or no copyright restrictions.
 
