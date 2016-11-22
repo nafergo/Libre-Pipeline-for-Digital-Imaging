@@ -80,6 +80,7 @@
 *   [BVHplay](https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay)
 *   [Helix](http://code.google.com/p/helixproject/)
 *   [OpenFX](http://www.openfx.org/)
+*   [Tooll](https://github.com/framefield/tooll/)
 *   [QAvimator](http://qavimator.org/)
 
 ### Lipsync
