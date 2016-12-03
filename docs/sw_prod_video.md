@@ -11,6 +11,7 @@
 ## Video Editing
 *   [Blender](http://www.blender.org/)
 *   [Cinelerra](http://cinelerra.org/)
+*   [Cinelerra-CV](https://cinelerra-cv.org/)
 *   [EKD](http://ekd.tuxfamily.org/)
 *   [FFmpeg](http://www.ffmpeg.org/)
 *   [Flowblade](https://code.google.com/p/flowblade/)
