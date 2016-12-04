@@ -6,5 +6,26 @@
 *   [ColorHug](http://www.hughski.com/)
 *   [ColorTribe](http://opensource.mikrosimage.eu/colortribe.html)
 
+## Creative coding
+*   [Processing](http://processing.org/)
+
+## Desktop publishing
+*   [Calibre](https://calibre-ebook.com/)
+*   [PDFedit](http://pdfedit.cz/en/index.html)
+*   [Scribus](http://www.scribus.net)
+*   [Sigil](https://sigil-ebook.com/)
+
+
+## Font design
+*   [Birdfont](https://birdfont.org/)
+*   [FontForge](http://fontforge.org/)
+*   [metaflop](http://www.metaflop.com/)
+
+## Generative, fractals
+*   [Apophysis](http://apophysis.org/)
+*   [Evolvotron](http://www.bottlenose.net/share/evolvotron/)
+*   [fraqtive](http://fraqtive.mimec.org/)
+*   [Mandelbulber](http://www.mandelbulber.com/)
+
 ##Subtitles
 *   [Gnome Subtitles](http://gnomesubtitles.org/)
