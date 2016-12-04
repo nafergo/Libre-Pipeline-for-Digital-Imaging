@@ -3,7 +3,7 @@
 ## Operating Systems
 *   [Debian](http://www.debian.org/ "123")
 *   [Fedora](http://fedoraproject.org/)
-** [Fedora Design Suite](https://labs.fedoraproject.org/design-suite/)
+  * [Fedora Design Suite](https://labs.fedoraproject.org/design-suite/)
 *   [Linux Mint](http://www.linuxmint.com/)
 *   [Ubuntu](http://www.ubuntu.com/)
 *   [Ubuntu Studio](http://ubuntustudio.org/)
