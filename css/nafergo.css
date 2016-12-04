@@ -22,3 +22,9 @@ input:focus 		{ outline:none; }
 #-home- {}
 
 #back_to_top, #edit {margin-left: 95%;} 
+
+
+#content h1 {
+  background-color: rgba(0,0,0,0.9); 
+  padding-left:1em;padding-right:1em; font-size: 1.1em; text-transform: uppercase; color: rgba(250,250,250,1);float: left;margin-right:0.5em;margin-top:0.5em;
+  }
