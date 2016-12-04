@@ -34,7 +34,7 @@ input:focus 		{ outline:none; }
   font-size: 1em;
   text-transform: uppercase;
   color: rgba(250,250,250,1);
-  margin-top:2em;
+  margin-bottom:1em;
   border-top: #fff;
   }
 
