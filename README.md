@@ -2,7 +2,7 @@
 
 
 
-### Libre Pipeline for CGI LICENSE
+##### Libre Pipeline for CGI LICENSE
 CC-BY-SA
 
 http://nafergo.github.io/Libre-Pipeline-for-CGI/ 
