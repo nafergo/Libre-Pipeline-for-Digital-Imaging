@@ -1,3 +1,5 @@
+# About us
+
 Libre Pipeline for CGI is a personal project of nelson gonçalves (aka nafergo).
 
 This directory was created with the purpose of storing Free/Libre and Open Source Software and assets (photos, hdri, music, rigs, etc.) that can be used in a CGI production with few or no copyright restrictions. After a while, I decided to share the list with the hope that it might be useful to others.
