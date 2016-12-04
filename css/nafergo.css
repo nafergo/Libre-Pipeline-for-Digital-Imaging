@@ -30,29 +30,34 @@ input:focus 		{ outline:none; }
 
 #content h2{
   background-color: #ee6e73;
-  padding-left:1em;
-  padding-right:1em;
-  font-size: 1.1em;
+  padding:1em;
+  font-size: 1em;
   text-transform: uppercase;
   color: rgba(250,250,250,1);
-  margin-right:0.5em;
-  margin-top:0.5em;
+  margin-top:2em;
+  border-top: #fff;
   }
 
 
 #content h3{
   background-color: #f3989b;
   padding:1em;
-   font-size: 1.1em;
+  font-size: 1em;
   text-transform: uppercase;
   color: rgba(250,250,250,1);
   margin-left: 2em;
+  border-top: #fff;
 }
 
 #content h4{
-  background-color: #E91E63;
-  padding-left:1em;padding-right:1em; font-size: 1.1em; text-transform: uppercase; color: rgba(250,250,250,1);margin-right:0.5em;margin-top:0.5em;
-  margin-left: 1em;}
+  background-color: #f3989b;
+  padding:1em;
+  font-size: 1em;
+  text-transform: uppercase;
+  color: rgba(250,250,250,1);
+  margin-left: 3em;
+  border-top: #fff;
+}
 
 
 
