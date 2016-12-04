@@ -12,8 +12,6 @@
 - [Prod – Video](#docs/sw_prod_video)
 - [Prod – VR & 360](#docs/sw_prod_vr)
 - [Prod – Game engines](#docs/sw_prod_gameengines)
-- [Prod - Other](#docs/sw_prod_other)
-- [Post-production](#docs/sw_postprod)
 - [Distribution](#docs/sw_other_distribution)
 - [Other Useful](#docs/sw_other_useful)
 
