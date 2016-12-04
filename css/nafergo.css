@@ -39,4 +39,4 @@ input:focus 		{ outline:none; }
 #content h3{
   background-color: #E91E63;
   padding-left:1em;padding-right:1em; font-size: 1.1em; text-transform: uppercase; color: rgba(250,250,250,1);margin-right:0.5em;margin-top:0.5em;
-  }
+  margin-left: 1em;}
