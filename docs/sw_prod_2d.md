@@ -65,6 +65,7 @@
 *   [Entangle](https://entangle-photo.org/)
 *   [LightZone](http://lightzoneproject.org/)
 *   [Luminance HDR](http://qtpfsgui.sourceforge.net/)
+*   [PhotoFlow](https://aferrero2707.github.io/PhotoFlow/)
 *   [RawStudio](https://rawstudio.org/)
 *   [RawTherapee](http://www.rawtherapee.com/)
 
