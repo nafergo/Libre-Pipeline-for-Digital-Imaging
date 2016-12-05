@@ -11,6 +11,7 @@
 
 ## Desktop publishing
 *   [Calibre](https://calibre-ebook.com/)
+*   [Laidout](http://www.laidout.org/)
 *   [PDFedit](http://pdfedit.cz/en/index.html)
 *   [Scribus](http://www.scribus.net)
 *   [Sigil](https://sigil-ebook.com/)
@@ -20,6 +21,8 @@
 *   [Birdfont](https://birdfont.org/)
 *   [FontForge](http://fontforge.org/)
 *   [metaflop](http://www.metaflop.com/)
+*   [metapolator](http://metapolator.com/home/)
+
 
 ## Generative, fractals
 *   [Apophysis](http://apophysis.org/)
