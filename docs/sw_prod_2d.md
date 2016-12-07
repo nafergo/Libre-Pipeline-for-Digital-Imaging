@@ -25,6 +25,7 @@
 ### Stop motion
 *   [Frameworks](http://frameworks.polycrystal.org/)
 *   [Helium Frog Animator](http://www.heliumfrog.net63.net/heliumfrogindex.html)
+*   [Heron Animation](https://www.heronanimation.brick-a-brack.com/)
 *   [Luciole](http://festival.inattendu.org/Luciole-Linux)
 *   [MUAN](http://www.muan.org.br)
 *   [qStopMotion](http://www.qstopmotion.org/)
