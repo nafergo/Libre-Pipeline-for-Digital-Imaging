@@ -1,6 +1,8 @@
+This project migrated to https://gitlab.com/nafergo/Libre-Pipeline-for-CGI
+Don't expect more updates here.
+
+
 # Libre Pipeline for CGI
-
-
 
 ##### Libre Pipeline for CGI LICENSE
 CC-BY-SA
