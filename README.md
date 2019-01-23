@@ -1,4 +1,3 @@
-This project migrated to https://gitlab.com/nafergo/Libre-Pipeline-for-CGI
 Don't expect more updates here.
 
 
