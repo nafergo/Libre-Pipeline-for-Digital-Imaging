@@ -14,6 +14,7 @@
 *   [lucrea3D](http://www.lucrea3d.com/)
 *   [model+model (free)](http://www.modelplusmodel.com/free.html)
 *   [OpenGameArt.org](http://opengameart.org/)
+*   [PolyHaven](https://polyhaven.com/)
 *   [Resources.blogscopia.com](http://resources.blogscopia.com/)
 *   [Syncronia](http://www.syncronia.com/): 3D BIM and CAD models of products and surfaces for the Architecture and Interior Design sectors.
 *   [TurboSquid](http://www.turbosquid.com/index.cfm)
