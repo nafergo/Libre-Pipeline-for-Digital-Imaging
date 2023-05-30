@@ -30,7 +30,7 @@
 
 ## Production Tracking/Management
 *   [Kitsu](https://www.cg-wire.com/kitsu)
-*   [Helga](http://helgaproject.org/)
+*   [Prism](https://prism-pipeline.com/)
 *   [OpenPipeline](http://openpipeline.cc/)
 *   [**RAMSES**](https://rxlaboratory.org/tools/ramses/)
 *   [RULES](http://cgru.info/#rules/rules.html)
