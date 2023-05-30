@@ -33,7 +33,7 @@
 ## Raster
 *   [Alchemy](http://al.chemy.org/)
 *   [Brushes](http://www.brushesapp.com/)
-*   [GIMP](http://www.gimp.org/)
+*   [**GIMP**](http://www.gimp.org/)
 *   [G’MIC](https://gmic.eu/)
 *   [Hugin](http://hugin.sourceforge.net)
 *   [ImageMagick](http://www.imagemagick.org)
@@ -46,7 +46,7 @@
 *   [Luminance HDR](http://qtpfsgui.sourceforge.net/)
 *   [PhotoFlow](https://aferrero2707.github.io/PhotoFlow/)
 *   [RawStudio](https://rawstudio.org/)
-*   [RawTherapee](http://www.rawtherapee.com/)
+*   [**RawTherapee**](http://www.rawtherapee.com/)
 
 
 ## 2D CAD
@@ -58,7 +58,7 @@
 
 ## Diagrams, mindmaps
 *   [DIA](https://wiki.gnome.org/action/show/Apps/Dia?action=show&redirect=Dia)
-*   [draw.io](https://www.drawio.com/)
+*   [**draw.io**](https://www.drawio.com/)
 *   [Flow](https://www.calligra.org/flow/)
 *   [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 *   [Visual Understanding Environment (VUE)](http://vue.tufts.edu/)
