@@ -14,7 +14,6 @@
 *   [MakerScanner](http://www.makerscanner.com/)
 *   [MeshLab](http://meshlab.sourceforge.net/)
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
-*   [OpenFX](http://www.openfx.org/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [ShapeWright](http://ship.shapewright.com/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
@@ -29,13 +28,11 @@
 ## Generators
 ### Landscape
 *   [Fracplanet](http://www.bottlenose.net/share/fracplanet/index.htm)
-*   [Lithosphere](http://lithosphere.codeflow.org/)
 *   [Mandelbulber](http://www.mandelbulber.com/)
 *   [Picogen](http://picogen.org/)
 
 ### Tree/plant
 *   [Arbaro](http://arbaro.sourceforge.net/)
-*   [CanTree](http://arnaud.ile.nc/cantree/)
 *   [ngPlantArbaro](http://ngplant.org/)
 *   [powerPlant](https://sourceforge.net/projects/pplant/)
 *   [TreeGen](https://sourceforge.net/projects/treegen/)
@@ -43,8 +40,8 @@
 
 
 ### Characters
-*   [MakeHuman](http://www.makehuman.org/)
-*   [Manuel Bastioni Lab](http://www.manuelbastioni.com/index.php)
+*   [MakeHuman](http://www.makehumancommunity.org/)
+*   [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/))
 
 ## CAD 3D
 *   [BRL-CAD](http://brlcad.org/)
@@ -57,18 +54,16 @@
 *   [BlenderGIS](https://github.com/domlysz/BlenderGIS): Blender addons to make the bridge between Blender and geographic data, OSM import.
 *   [heightmap2stl](https://sourceforge.net/projects/heightmap2stl/)
 *   [mesh2hmap](http://mesh2hmap.sourceforge.net/)
-*   [Open 3D Model Viewer](http://www.open3mod.com/)
 *   [OSM2World](http://osm2world.org/)
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 
 
 ## Photogrammetry
-*   [ArcheOS](http://www.archeos.eu/)
+*   [COLMAP](https://colmap.github.io)
 *   [Insight3D](http://insight3d.sourceforge.net/)
 *   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
+*   [**Meshroom**](https://alicevision.org/)
 *   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
-*   [OpenMVS](http://cdcseacave.github.io/openMVS/)
-*   [Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php)
 *   [Regard3D](http://www.regard3d.org/index.php)
 *   [VisualSFM](http://ccwu.me/vsfm/)
 
@@ -77,68 +72,44 @@
 ## Animation
 *   [Art of Illusion](http://www.artofillusion.org/)
 *   [Blender](http://www.blender.org/)
-*   [BVHplay](https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay)
-*   [Helix](http://code.google.com/p/helixproject/)
+*   [BVHplay](https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay-a-free-open-source-bvh-animation-player)
 *   [OpenFX](http://www.openfx.org/)
-*   [Tooll](https://github.com/framefield/tooll/)
-*   [QAvimator](http://qavimator.org/)
+*   [QAvimator](https://qavimator.bitbucket.io/))
 
 ### Lipsync
 *   [JLipSync](http://sourceforge.net/projects/jlipsync/)
 *   [Papagayo](http://www.lostmarble.com/papagayo/)
 
-## Shading
-*   [BRDF Explorer](http://www.disneyanimation.com/technology/brdf.html)
-*   [Open Shading Language](http://code.google.com/p/openshadinglanguage/)
-*   [PBRViewer](http://www.alexandre-pestana.com/tag/pbrviewer/)
-
 ## Textures
 *   [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
 *   [Blender](http://www.blender.org)
-*   [Brushes](http://www.brushesapp.com/)
-*   [cmftStudio](https://github.com/dariomanesku/cmftStudio)
+*   [bulk](https://github.com/Erarnitox/bulk-texture-creator)
+*   [DeepBump (Blender addon)](https://github.com/HugoTini/DeepBump)
 *   [FxGen](http://sourceforge.net/projects/fxgen/)
 *   [GIMP](http://www.gimp.org/)
-    *   [Insane Bump (Gimp plugin)](http://registry.gimp.org/node/28638)
-    *   [GIMP normalmap](http://code.google.com/p/gimp-normalmap/)
-*   [Insane Bump (standalone)](https://sites.google.com/site/ccdsurgeon/downloadhttp://)
+*   [GIMP plugin Insane Bump](https://github.com/kyokenn/gimp-plugin-insanebump)
 *   [Krita](http://krita.org/)
-*   [KulerIslands](https://github.com/JokerMartini/KulerIslands)
-*   [MyPaint](http://mypaint.intilinux.com/)
+*   [Laigter](https://github.com/azagaya/laigter)
+*   [Material-Map-Generator](https://github.com/joeyballentine/Material-Map-Generator)
+*   [Materialize](https://boundingboxsoftware.com/materialize/)
 *   [NeoTextureEdit](http://neotextureedit.sourceforge.net/)
-*   [Normal Map Generator](http://normalmapgenerator.yolasite.com/)
-*   [Phatch](http://photobatch.stani.be/)
-*   [Roadkill](http://www.pullin-shapes.co.uk/page8.htm)
-*   [ShaderToolsNG](https://github.com/tinangel/ShaderToolsNG)
-*   [SSbump Generator](http://ssbump-generator.yolasite.com/)
+*   [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)
+*   [NormalMap Online](https://github.com/cpetry/NormalMap-Online)
 
 ## Rendering
 *   [appleseed](http://appleseedhq.net/)
-*   [Aqsis](http://www.aqsis.org/)
-*   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
-*   [Freestyle](http://freestyle.sourceforge.net/)
+*   [Blender Eevee + Cycles + Freestyle](http://www.blender.org/)
 *   [LuxRender](http://www.luxrender.net)
 *   [Mitsuba](http://www.mitsuba-renderer.org/)
 *   [Nox](http://www.evermotion.org/nox)
 *   [OpenFX](http://www.openfx.org/)
 *   [Pixie](http://www.renderpixie.com/)
 *   [Sunflow](http://sunflow.sourceforge.net/)
-*   [V-Ray/Blender](http://bdancer.github.com/)
-*   [YafaRay](http://www.yafaray.org/)
 
 ## Renderfarm
 *   [Afanasy](http://cgru.info/#afanasy/afanasy.html)
 *   [Blender Network Render](http://www.blender.org/)
-*   [BlendWorks](https://setagon.com/project/blendworks/)
-*   [Brenda](https://github.com/jamesyonan/brenda)
-*   [Brender](http://www.brender-farm.org/)
+*   [(Blender)Farmer Joe](https://github.com/Laurencitow/Farmer-Joe-Render-Farm)
+*   [BlenderQ](https://github.com/AO-StreetArt/BlenderQ)
 *   [DrQueue](http://www.drqueue.org)
-*   [Farmerjoe](http://farmerjoe.info/)
-*   [Flamenco](http://www.flamenco.io/)
-*   [Gsorf](http://www.gsorf.lwtv.de/)
-*   [Loki Render](http://loki-render.berlios.de/)
-*   [Puli](http://opensource.mikrosimage.eu/puli.html)
-*   [Renderbox](http://www.technicaldirector.in/renderbox/)
-*   [Renderfarm.fi](http://www.renderfarm.fi/)
 *   [Sheep it Render Farm](http://www.sheepit-renderfarm.com/)
