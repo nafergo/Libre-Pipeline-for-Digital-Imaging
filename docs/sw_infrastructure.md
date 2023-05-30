@@ -68,8 +68,8 @@
 ## File Formats
 *   [Alembic](http://www.alembic.io/)
 *   [COLLADA](https://www.khronos.org/collada/)
-*   [FUIF](https://github.com/cloudinary/fuif))
-*   [gITF](https://www.khronos.org/gltf/))
+*   [FUIF](https://github.com/cloudinary/fuif)
+*   [gITF](https://www.khronos.org/gltf/)
 *   [MaterialX](http://www.materialx.org/)
 *   [Matroska](http://www.matroska.org/)
 *   [OpenEXR](http://www.openexr.com/)
