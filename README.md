@@ -1,9 +1,9 @@
-# Libre Pipeline for CGI
+# Libre Pipeline for Digital imaging 
 
-##### Libre Pipeline for CGI LICENSE
+##### Libre Pipeline for Digital imaging LICENSE
 CC-BY-SA
 
-http://nafergo.github.io/Libre-Pipeline-for-CGI/ 
+http://nafergo.github.io/Libre-Pipeline-for-Digital-imaging/ 
 
 # Welcome!
 
