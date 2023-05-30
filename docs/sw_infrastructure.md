@@ -63,7 +63,9 @@
 *   [FFmpeg](http://ffmpeg.org/)
 *   [HandBrake](https://handbrake.fr/)
 *   [MPlayer](http://www.mplayerhq.hu/)
+*   [mrViewer](https://mrviewer.sourceforge.io/)
 *   [VLC](http://www.videolan.org/vlc/)
+*   [xStudio](https://www.dneg.com/xstudio/)
 
 ## File Formats
 *   [Alembic](http://www.alembic.io/)
