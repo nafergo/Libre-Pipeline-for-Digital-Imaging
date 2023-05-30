@@ -7,6 +7,7 @@
 - [Infrastructure](#docs/sw_infrastructure)
 - [Pre-production](#docs/sw_preprod)
 - [Prod – 3D](#docs/sw_prod_3d)
+- [Prod – Blender Addons](#docs/blender_addons)
 - [Prod – 2D](#docs/sw_prod_2d)
 - [Prod – Audio](#docs/sw_prod_audio)
 - [Prod – Video](#docs/sw_prod_video)
