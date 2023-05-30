@@ -7,7 +7,7 @@
 ## Modeling
 *   [Art of Illusion](http://www.artofillusion.org/)
 *   [Ayam](http://ayam.sourceforge.net/)
-*   [Blender](http://www.blender.org/)
+*   [**Blender**](http://www.blender.org/)
 *   [Dilay](http://abau.org/dilay/index.html)
 *   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
@@ -71,7 +71,7 @@
 
 ## Animation
 *   [Art of Illusion](http://www.artofillusion.org/)
-*   [Blender](http://www.blender.org/)
+*   [**Blender**](http://www.blender.org/)
 *   [BVHplay](https://sites.google.com/a/cgspeed.com/cgspeed/bvhplay-a-free-open-source-bvh-animation-player)
 *   [OpenFX](http://www.openfx.org/)
 *   [QAvimator](https://qavimator.bitbucket.io/))
