@@ -3,7 +3,7 @@
 ##### Libre Pipeline for Digital Imaging LICENSE
 CC-BY-SA
 
-http://nafergo.github.io/Libre-Pipeline-for-Digital-iIaging/ 
+http://nafergo.github.io/Libre-Pipeline-for-Digital-Imaging/ 
 
 # Welcome!
 
