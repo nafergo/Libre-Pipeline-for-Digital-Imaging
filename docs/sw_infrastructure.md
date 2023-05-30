@@ -43,6 +43,7 @@
 *   [MediaGoblin](http://www.mediagoblin.org/)
 *   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
 *   [ownCloud](http://owncloud.org/)
+*   [Resource Space](https://www.resourcespace.com/) 
 *   [Sparkleshare](http://sparkleshare.org/)
 *   [Subversion](http://subversion.apache.org/)
 *   [Syncthing](http://syncthing.net/)
