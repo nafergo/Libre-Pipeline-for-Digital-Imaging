@@ -1,26 +1,24 @@
 # Production – Game Engines
 
 ## 2D
-*   [Atomic Game Engine](http://atomicgameengine.com/)
 *   [Cocos2d-x](http://www.cocos2d-x.org/)
 *   [GDevelop](http://compilgames.net/)
+*   [Godot](http://www.godotengine.org/)
 *   [Kivy](http://kivy.org/)
 *   [Phaser](http://phaser.io/)
 *   [Ren’Py](http://www.renpy.org/)
 *   [Starling](http://gamua.com/starling/)
-*   [Urho](https://urho3d.github.io/)
+*   [Superpowers](http://superpowers-html5.com)
 
-## 3D (some include 2D features)
-*   [Armory](http://armory3d.org/)
-*   [Atomic Game Engine](http://atomicgameengine.com/)
+
+## 3D 
+*   [**Armory**](http://armory3d.org/)
 *   [Blend4Web](https://www.blend4web.com/)
 *   [Blender (Game Engine)](http://www.blender.org)
 *   [Uchronia Project Blender Game Engine (fork of BGE)](https://github.com/UPBGE/blender)
-*   [Crystal Space](http://www.crystalspace3d.org)
 *   [GamePlay](http://www.gameplay3d.io/)
 *   [Genesis3D](http://www.genesis3d.com/)
-*   [Godot](http://www.godotengine.org/)
-*   [Hatchit](http://thirddegree.github.io/Hatchit/)
+*   [**Godot**](http://www.godotengine.org/)
 *   [Intrinsic](http://www.intrinsic-engine.com/)
 *   [jMonkeyEngine](http://jmonkeyengine.org/)
 *   [Maratis](http://www.maratis3d.com/)
@@ -28,7 +26,5 @@
 *   [nunuStudio](https://github.com/tentone/nunuStudio)
 *   [OGRE](http://www.ogre3d.org/)
 *   [Superpowers](http://superpowers-html5.com)
-*   [Turbulenz](https://github.com/turbulenz/turbulenz_engine)
-*   [Urho](https://urho3d.github.io/)
 *   [Worldforge](http://www.worldforge.org/)
 
