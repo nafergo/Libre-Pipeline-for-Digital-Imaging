@@ -1,6 +1,5 @@
 #Video
 *   [ActionVFX](https://www.actionvfx.com/)
-*   [AllTheFreeStock.com](http://allthefreestock.com/)
 *   [Coverr](http://www.coverr.co/)
 *   [FootageCrate](http://footagecrate.com/)
 *   [Life of Vids](http://www.lifeofvids.com/)
