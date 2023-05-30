@@ -14,6 +14,3 @@
 *   [‘Q’ DVD-Author](http://qdvdauthor.sourceforge.net/)
 *   [Tovid](http://tovid.wikia.com)
 
-## Web
-*   [Drupal](http://drupal.org/)
-*   [WordPress](http://wordpress.org/)
