@@ -6,4 +6,6 @@
 *   [Joost Vanhoutte](https://gumroad.com/joost)
 *   [NoEmotion HDRs](http://noemotionhdrs.net/)
 *   [OpenFootage.net](http://www.openfootage.net/)
+
+*   [PolyHaven](https://polyhaven.com/)
 *   [sIBL Archive @HDR Labs](http://www.hdrlabs.com/sibl/archive.html)
