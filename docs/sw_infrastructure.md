@@ -4,7 +4,6 @@
 *   [Debian](http://www.debian.org/ "123")
 *   [Fedora](http://fedoraproject.org/)
   * [Fedora Design Suite](https://labs.fedoraproject.org/design-suite/)
-*   [Iro](http://www.iroos.net/)
 *   [Linux Mint](http://www.linuxmint.com/)
 *   [Ubuntu](http://www.ubuntu.com/)
   *   [Ubuntu Studio](http://ubuntustudio.org/)
@@ -36,15 +35,12 @@
 *   [SimpleInvoices](http://www.simpleinvoices.org/)
 
 ## Production Tracking/Management
-*   [attract](http://attract-app.org/)
+*   [Kitsu](https://www.cg-wire.com/kitsu)
 *   [Helga](http://helgaproject.org/)
 *   [OpenPipeline](http://openpipeline.cc/)
-*   [prodisc](https://github.com/nafergo/axsz_toolz)
-*   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
+*   **[RAMSES]**(https://rxlaboratory.org/tools/ramses/)
 *   [RULES](http://cgru.info/#rules/rules.html)
-*   [Shotz](https://github.com/nafergo/shotz)
 *   [Stalker](https://github.com/eoyilmaz/stalker)
-*   [StudiozCollabPress](http://forge.animaxionstudioz.com/?page_id=2)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 *   [Tindio](http://e-pool-productions.github.io/tindio/)
 
@@ -54,6 +50,7 @@
 *   [Git](http://git-scm.com/)
 *   [MediaGoblin](http://www.mediagoblin.org/)
 *   [OPAM](https://docs.google.com/document/d/1tZ84k6uLpHGhoSDmpUTPsV-wbGkoEU8ZVBbEj6xbjC0/edit)
+*   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
 *   [OpenDAM](http://opendam.org/)
 *   [ownCloud](http://owncloud.org/)
 *   [Seafile](http://seafile.com/)
