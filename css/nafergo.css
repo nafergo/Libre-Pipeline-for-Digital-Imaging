@@ -25,6 +25,7 @@ input:focus 		{ outline:none; }
 
 
 #content h1 {
+    text-transform: uppercase;
   }
 
 
