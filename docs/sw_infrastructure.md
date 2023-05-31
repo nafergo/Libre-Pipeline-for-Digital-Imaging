@@ -3,10 +3,10 @@
 ## Operating Systems
 *   [Debian](http://www.debian.org/ "123")
 *   [Fedora](http://fedoraproject.org/)
-  * [Fedora Design Suite](https://labs.fedoraproject.org/design-suite/)
+*   [Fedora Design Suite](https://labs.fedoraproject.org/design-suite/)
 *   [Linux Mint](http://www.linuxmint.com/)
 *   [**Ubuntu**](http://www.ubuntu.com/)
-  *   [Ubuntu Studio](http://ubuntustudio.org/)
+*   [Ubuntu Studio](http://ubuntustudio.org/)
 
 
 ## Project Management
@@ -41,15 +41,22 @@
 *   [Tindio](http://e-pool-productions.github.io/tindio/)
 
 ## Assets Management
+
+### General
 *   [Git](http://git-scm.com/)
 *   [MediaGoblin](http://www.mediagoblin.org/)
-*   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
-*   [ownCloud](http://owncloud.org/)
 *   [Resource Space](https://www.resourcespace.com/) 
-*   [Sparkleshare](http://sparkleshare.org/)
 *   [Subversion](http://subversion.apache.org/)
-*   [Syncthing](http://syncthing.net/)
+
+### Filmmaking
+*   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
+
+ ### Cloud file sync
+*   [NextCloud](https://nextcloud.com/)
+*   [ownCloud](http://owncloud.org/)
+*   [Sparkleshare](http://sparkleshare.org/)
+*   [Syncthing](http://syncthing.net/)
 
 ## Image assets management
 *   [**digiKam**](http://www.digikam.org/)
