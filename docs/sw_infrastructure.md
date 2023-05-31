@@ -29,6 +29,8 @@
 *   [KMyMoney](http://kmymoney2.sourceforge.net/)
 
 ## Production Tracking/Management
+
+### Film, VFX and Animation
 *   [Kitsu](https://www.cg-wire.com/kitsu)
 *   [Prism](https://prism-pipeline.com/)
 *   [OpenPipeline](http://openpipeline.cc/)
