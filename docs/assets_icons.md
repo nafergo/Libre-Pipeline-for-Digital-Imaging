@@ -18,6 +18,6 @@
 *   [remix icon](https://remixicon.com/)
 *   [Octicons](https://primer.style/design/foundations/icons)
 *   [ikonate](https://ikonate.com/)
-*   [feather](icons https://feathericons.com/)
+*   [feather icons](https://feathericons.com/)
 
 ## Thematic
