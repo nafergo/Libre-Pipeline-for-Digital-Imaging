@@ -25,6 +25,8 @@
 *   [OpenMoCap](https://github.com/davidflam/OpenMoCap)
 
 ## Artificial Intelligence
+*   [cupscale](https://github.com/n00mkrad/cupscale)
+*   [Scapix](https://github.com/Specy/Scapix)
 *   [Upscayl](https://github.com/upscayl/upscayl)
 *   [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI)
 *   [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
