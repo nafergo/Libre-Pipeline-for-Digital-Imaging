@@ -36,9 +36,12 @@
 
 ## Photogrammetry
 *   [COLMAP](https://colmap.github.io)
+*   [COLMAP-CL](https://github.com/openphotogrammetry/colmap-cl)
 *   [Insight3D](http://insight3d.sourceforge.net/)
 *   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
 *   [**Meshroom**](https://alicevision.org/)
+*   [Meshroom-CL](https://github.com/openphotogrammetry/meshroomcl)
+*   [MicMac](https://micmac.ensg.eu/index.php/Accueil)
 *   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
 *   [Regard3D](http://www.regard3d.org/index.php)
 *   [VisualSFM](http://ccwu.me/vsfm/)
@@ -98,11 +101,13 @@
 
 ## Textures
 ### Paint
+*   [ArmorPaint](https://armorpaint.org/)
 *   [GIMP](http://www.gimp.org/)
 *   [Krita](http://krita.org/)
 *   [Blender](http://www.blender.org)
 
 ### Texture Maps
+*   [ArmorLab](https://armorlab.org/)
 *   [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
 *   [bulk](https://github.com/Erarnitox/bulk-texture-creator)
 *   [DeepBump (Blender addon)](https://github.com/HugoTini/DeepBump)
