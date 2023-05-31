@@ -66,6 +66,7 @@
 *   [KSquirrel](http://ksquirrel.sourceforge.net/)
 *   [MediaGoblin](http://www.mediagoblin.org/)
 *   [Piwigo](http://www.piwigo.org/)
+*   [qimgv](https://github.com/easymodo/qimgv)
 *   [Shotwell](http://www.yorba.org/projects/shotwell/)
 
 ## Media Players & Transcoding
