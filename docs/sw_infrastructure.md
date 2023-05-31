@@ -30,7 +30,7 @@
 
 ## Production Tracking/Management
 
-### Film, VFX and Animation
+### Filmmaking
 *   [Kitsu](https://www.cg-wire.com/kitsu)
 *   [Prism](https://prism-pipeline.com/)
 *   [OpenPipeline](http://openpipeline.cc/)
@@ -51,7 +51,7 @@
 *   [Syncthing](http://syncthing.net/)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 
-## Image assets managenent
+## Image assets management
 *   [**digiKam**](http://www.digikam.org/)
 *   [Gallery](http://galleryproject.org/)
 *   [Geeqie](http://geeqie.sourceforge.net/)
@@ -62,13 +62,17 @@
 *   [Shotwell](http://www.yorba.org/projects/shotwell/)
 
 ## Media Players & Transcoding
-*   [DJV Imaging](http://djv.sourceforge.net/)
+### General
 *   [FFmpeg](http://ffmpeg.org/)
 *   [HandBrake](https://handbrake.fr/)
 *   [MPlayer](http://www.mplayerhq.hu/)
-*   [mrViewer](https://mrviewer.sourceforge.io/)
 *   [VLC](http://www.videolan.org/vlc/)
+
+### Filmmaking
+*   [DJV Imaging](http://djv.sourceforge.net/)
+*   [mrViewer](https://mrviewer.sourceforge.io/)
 *   [xStudio](https://www.dneg.com/xstudio/)
+
 
 ## File Formats
 *   [Alembic](http://www.alembic.io/)
