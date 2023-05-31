@@ -58,6 +58,7 @@
 *   [Syncthing](http://syncthing.net/)
 
 ## Image assets management
+*   [Allusion](https://allusion-app.github.io/)
 *   [**digiKam**](http://www.digikam.org/)
 *   [Gallery](http://galleryproject.org/)
 *   [Geeqie](http://geeqie.sourceforge.net/)
