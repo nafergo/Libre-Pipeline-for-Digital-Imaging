@@ -5,24 +5,38 @@
 *   [Slic3r](http://slic3r.org/)
 
 ## Modeling
+
+### General
 *   [Art of Illusion](http://www.artofillusion.org/)
 *   [Ayam](http://ayam.sourceforge.net/)
 *   [**Blender**](http://www.blender.org/)
 *   [Dilay](http://abau.org/dilay/index.html)
 *   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
-*   [MakerScanner](http://www.makerscanner.com/)
 *   [MeshLab](http://meshlab.sourceforge.net/)
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
 *   [Seamless3d](http://www.seamless3d.com/)
-*   [ShapeWright](http://ship.shapewright.com/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
 
-
-###Interior design
+### Interior design
 *   [Fluid Designer](http://www.microvellum.com/products/fluid-designer/)
 *   [Sweet Home 3D](http://www.sweethome3d.com/)
+
+### Specialized
+*   [Voxel Builder](https://nimadez.github.io/voxel-builder/)
+
+### Scanning
+*   [MakerScanner](http://www.makerscanner.com/)
+
+### Photogrammetry
+*   [COLMAP](https://colmap.github.io)
+*   [Insight3D](http://insight3d.sourceforge.net/)
+*   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
+*   [**Meshroom**](https://alicevision.org/)
+*   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
+*   [Regard3D](http://www.regard3d.org/index.php)
+*   [VisualSFM](http://ccwu.me/vsfm/)
 
 
 ## Generators
@@ -43,6 +57,10 @@
 *   [MakeHuman](http://www.makehumancommunity.org/)
 *   [MB-Lab](https://mb-lab-community.github.io/MB-Lab.github.io/))
 
+### Vehicles
+*   [ShapeWright](http://ship.shapewright.com/)
+
+
 ## CAD 3D
 *   [BRL-CAD](http://brlcad.org/)
 *   [FreeCAD](http://www.freecadweb.org/)
@@ -58,14 +76,7 @@
 *   [Terrain2STL](http://jthatch.com/Terrain2STL/)
 
 
-## Photogrammetry
-*   [COLMAP](https://colmap.github.io)
-*   [Insight3D](http://insight3d.sourceforge.net/)
-*   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
-*   [**Meshroom**](https://alicevision.org/)
-*   [OpenMVG](http://imagine.enpc.fr/~moulonp/openMVG/)
-*   [Regard3D](http://www.regard3d.org/index.php)
-*   [VisualSFM](http://ccwu.me/vsfm/)
+
 
 
 
@@ -81,20 +92,24 @@
 *   [Papagayo](http://www.lostmarble.com/papagayo/)
 
 ## Textures
-*   [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
+### Paint
+*   [GIMP](http://www.gimp.org/)
+*   [Krita](http://krita.org/)
 *   [Blender](http://www.blender.org)
+
+### Texture Maps
+*   [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
 *   [bulk](https://github.com/Erarnitox/bulk-texture-creator)
 *   [DeepBump (Blender addon)](https://github.com/HugoTini/DeepBump)
 *   [FxGen](http://sourceforge.net/projects/fxgen/)
-*   [GIMP](http://www.gimp.org/)
 *   [GIMP plugin Insane Bump](https://github.com/kyokenn/gimp-plugin-insanebump)
-*   [Krita](http://krita.org/)
 *   [Laigter](https://github.com/azagaya/laigter)
 *   [Material-Map-Generator](https://github.com/joeyballentine/Material-Map-Generator)
 *   [Materialize](https://boundingboxsoftware.com/materialize/)
 *   [NeoTextureEdit](http://neotextureedit.sourceforge.net/)
 *   [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)
 *   [NormalMap Online](https://github.com/cpetry/NormalMap-Online)
+
 
 ## Rendering
 *   [appleseed](http://appleseedhq.net/)
