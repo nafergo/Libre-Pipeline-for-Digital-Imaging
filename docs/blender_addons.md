@@ -1,10 +1,17 @@
-#Blender addons
+#Blender (external) addons
 
 ## Modeling
-http://blendingjacob.blogspot.pt/p/jarch-vis.html
+*   [Building Tools](https://ranjian0.github.io/building_tools)
 
-## Lighting
+## Animation
+*   [Commotion](https://github.com/mrachinskiy/commotion)
+*   [TextFX](https://gist.github.com/tin2tin/68f31d5b3a46cdfaa3f19cbae9870a90)
 
-https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position
-or uopdated here https://github.com/meta-androcto/blenderpython
-## Rendering
+## Textures
+*   [TexTools](https://github.com/SavMartin/TexTools-Blender)
+
+## GIS
+*   [BlenderGIS](https://github.com/domlysz/BlenderGIS)
+
+## Management
+*   [Project Timer](https://github.com/theres1/Project-Timer)
