@@ -1,6 +1,7 @@
 #3D Models
 
 ## Repository
+
 ### General
 *   [3dsky](http://3dsky.org/)
 *   [3dxy.us](http://3dxy.us/)
@@ -10,6 +11,7 @@
 *   [OpenGameArt.org](http://opengameart.org/)
 *   [PolyHaven](https://polyhaven.com/)
 *   [TurboSquid](http://www.turbosquid.com/index.cfm)
+
 ### Furniture and interior design
 *   [B&B Italia](http://www.bebitalia.com/en/):B&B ITALIA products (2D/3D)
 *   [Blender for Architecture](http://blender-archi.tuxfamily.org/)
@@ -32,6 +34,7 @@
 *   [Sketchfab](https://sketchfab.com/)
 *   [Thingiverse](http://www.thingiverse.com/)
 *   [YouMagine](https://www.youmagine.com/)
+
 ### Other themes
 *   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, as well as jewelry related information
 *   [NASA 3D Resources](http://nasa3d.arc.nasa.gov/): space related
