@@ -15,7 +15,7 @@
 
 ## Concept Art
 *   Check the Drawing section of [Prod – 2D](#docs/sw_prod_2d)
-*   Check the Color section of  [Other Useful](#docs/sw_other_useful)
+*   Check  [Other Useful](#docs/sw_other_useful)
 
 ## Storyboard
 *   [Blender](http://www.blender.org/)
