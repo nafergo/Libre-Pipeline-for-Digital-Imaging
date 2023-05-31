@@ -51,7 +51,7 @@
 *   [oyProjectManager](https://pypi.python.org/pypi/oyProjectManager)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 
- ### Cloud file sync
+### Cloud file sync
 *   [NextCloud](https://nextcloud.com/)
 *   [ownCloud](http://owncloud.org/)
 *   [Sparkleshare](http://sparkleshare.org/)
