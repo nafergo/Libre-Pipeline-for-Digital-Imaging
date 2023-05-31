@@ -4,6 +4,10 @@
 *   [Cura](https://ultimaker.com/en/products/cura-software)
 *   [Slic3r](http://slic3r.org/)
 
+## Mesh processing
+*   [CloudCompare](http://www.cloudcompare.org/)
+*   [MeshLab](http://meshlab.sourceforge.net/)
+
 ## Modeling
 
 ### General
@@ -11,13 +15,14 @@
 *   [Ayam](http://ayam.sourceforge.net/)
 *   [**Blender**](http://www.blender.org/)
 *   [Dilay](http://abau.org/dilay/index.html)
-*   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 *   [K-3D](http://www.k-3d.org/)
-*   [MeshLab](http://meshlab.sourceforge.net/)
 *   [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/)
 *   [Seamless3d](http://www.seamless3d.com/)
 *   [TopMod](https://sites.google.com/site/topmod3d/)
 *   [Wings 3D](http://www.wings3d.com/)
+
+### Retopology
+*   [Instant Meshes](https://github.com/wjakob/instant-meshes)
 
 ### Interior design
 *   [Fluid Designer](http://www.microvellum.com/products/fluid-designer/)
@@ -26,10 +31,10 @@
 ### Specialized
 *   [Voxel Builder](https://nimadez.github.io/voxel-builder/)
 
-### Scanning
+## Scanning
 *   [MakerScanner](http://www.makerscanner.com/)
 
-### Photogrammetry
+## Photogrammetry
 *   [COLMAP](https://colmap.github.io)
 *   [Insight3D](http://insight3d.sourceforge.net/)
 *   [Insight3Ddng](https://sourceforge.net/projects/insight3dng/)
