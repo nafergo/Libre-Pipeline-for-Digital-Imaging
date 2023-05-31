@@ -10,6 +10,7 @@
 
 
 ## Project Management
+### General
 *   [Collabtive](http://collabtive.o-dyn.de/index.php)
 *   [**Focalboard**](https://www.focalboard.com/)
 *   [GanttProject](http://www.ganttproject.biz/)
@@ -22,14 +23,6 @@
 *   [TaskJuggler](http://taskjuggler.org/)
 *   [Tuleap](https://www.tuleap.org/)
 
-## Budget & Finances & Invoices
-*   [Buddi](http://buddi.digitalcave.ca/)
-*   [GnuCash](http://www.gnucash.org/)
-*   [Grisbi](http://www.grisbi.org/)
-*   [KMyMoney](http://kmymoney2.sourceforge.net/)
-
-## Production Tracking/Management
-
 ### Filmmaking
 *   [Kitsu](https://www.cg-wire.com/kitsu)
 *   [Prism](https://prism-pipeline.com/)
@@ -39,6 +32,12 @@
 *   [Stalker](https://github.com/eoyilmaz/stalker)
 *   [TACTIC](http://www.southpawtech.com/tactic/)
 *   [Tindio](http://e-pool-productions.github.io/tindio/)
+
+## Budget & Finances & Invoices
+*   [Buddi](http://buddi.digitalcave.ca/)
+*   [GnuCash](http://www.gnucash.org/)
+*   [Grisbi](http://www.grisbi.org/)
+*   [KMyMoney](http://kmymoney2.sourceforge.net/)
 
 ## Assets Management
 
