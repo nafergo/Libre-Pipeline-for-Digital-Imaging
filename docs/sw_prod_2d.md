@@ -24,6 +24,11 @@
 ### Mocap
 *   [OpenMoCap](https://github.com/davidflam/OpenMoCap)
 
+## Artificial Intelligence
+*   [Upscayl](https://github.com/upscayl/upscayl)
+*   [Waifu2x GUI](https://github.com/Tenpi/Waifu2x-GUI)
+*   [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
 
 ## Vector graphics
 *   [**Inkscape**](http://inkscape.org/)
