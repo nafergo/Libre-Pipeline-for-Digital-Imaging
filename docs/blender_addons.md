@@ -3,6 +3,9 @@
 ## Modeling
 *   [Building Tools](https://ranjian0.github.io/building_tools)
 
+## Materials
+*   [PBR materials - asset browser catalog](https://3d-wolf.com/products/assets/materials/)
+
 ## Animation
 *   [Commotion](https://github.com/mrachinskiy/commotion)
 *   [TextFX](https://gist.github.com/tin2tin/68f31d5b3a46cdfaa3f19cbae9870a90)
