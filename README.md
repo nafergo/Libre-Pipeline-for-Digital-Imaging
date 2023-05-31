@@ -17,8 +17,3 @@ We like the [Creative Commons licenses](https://creativecommons.org/licenses/), 
 Nevertheless, we’re sure that you will find something useful.
 
 Have fun!
-
-
-OTHER LISTS
-*   [Tools.Design](https://www.toools.design/)
-*   [AllTheFreeStock.com](http://allthefreestock.com/)
