@@ -9,7 +9,6 @@
 *   [Freepik](http://www.freepik.com/)
 *   [FontAwesome](https://fontawesome.com/)
 *   [Material Symbols](https://fonts.google.com/icons)
-
 *   [iconoir](https://iconoir.com/)
 *   [ionic](https://ionic.io/ionicons/)
 *   [Eva icons](https://akveo.github.io/eva-icons/#/)
