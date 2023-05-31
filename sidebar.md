@@ -30,6 +30,9 @@
 - [Themes](#docs/assets_themes)
 - [Video](#docs/assets_video)
 
+## Other
+- [Lists](#docs/lists_links)
+
 
 ###About us
 - [About us](#docs/about_us)
