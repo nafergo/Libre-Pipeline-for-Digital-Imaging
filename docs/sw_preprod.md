@@ -3,7 +3,7 @@
 ## Ideas & Concepts
 *   [LibreOffice](http://www.libreoffice.org/)
 *   [Kit Scenarist](https://kitscenarist.ru/en/index.html)
-*   Check the Diagrams & mindmaps section of [Prod – 2D](#docs/sw_prod_2d/)
+*   Check the Diagrams & mindmaps section of [Prod – 2D](#docs/sw_prod_2d)
 
 
 ## Script
@@ -14,7 +14,7 @@
 *   [Trelby](http://www.trelby.org/)
 
 ## Concept Art
-*   Check the Drawing section of [Prod – 2D](#docs/sw_prod_2d/)
+*   Check the Drawing section of [Prod – 2D](#docs/sw_prod_2d)
 *   Check the Color section of  [Other Useful](#docs/sw_other_useful)
 
 ## Storyboard
