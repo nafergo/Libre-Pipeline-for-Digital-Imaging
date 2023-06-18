@@ -2,6 +2,8 @@
 
 ## Modeling
 *   [Building Tools](https://ranjian0.github.io/building_tools)
+*   [Image2Mesh](https://kjell.gumroad.com/l/i2m)
+*   [Cracks And Damage Maker](https://maroc777772.gumroad.com/l/mokfs)
 
 ## Materials
 *   [PBR materials - asset browser catalog](https://3d-wolf.com/products/assets/materials/)
@@ -15,6 +17,8 @@
 
 ## Textures
 *   [TexTools](https://github.com/SavMartin/TexTools-Blender)
+*   [deepbump](https://hugotini.github.io/deepbump)
+
 
 ## GIS
 *   [BlenderGIS](https://github.com/domlysz/BlenderGIS)
