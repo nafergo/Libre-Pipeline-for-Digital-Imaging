@@ -35,6 +35,10 @@
 *   [Thingiverse](http://www.thingiverse.com/)
 *   [YouMagine](https://www.youmagine.com/)
 
+
+### Nature
+*   [The Plant Library](https://blendermarket.com/products/the-plant-library?ref=311)
+
 ### Other themes
 *   [3D lapidary](http://www.3dlapidary.com/): models of real gemstones, as well as jewelry related information
 *   [NASA 3D Resources](http://nasa3d.arc.nasa.gov/): space related
