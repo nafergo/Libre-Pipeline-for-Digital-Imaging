@@ -4,12 +4,15 @@
 *   [Building Tools](https://ranjian0.github.io/building_tools)
 *   [Image2Mesh](https://kjell.gumroad.com/l/i2m)
 *   [Cracks And Damage Maker](https://maroc777772.gumroad.com/l/mokfs)
+*   [Differential Growth](https://boris.okunskiy.name/posts/blender-differential-growth)
+
 
 ## Materials
 *   [PBR materials - asset browser catalog](https://3d-wolf.com/products/assets/materials/)
 
 ## Rigging
 *   [Rokoko Studio](https://github.com/Rokoko/rokoko-studio-live-blender)
+*   [Blenrig 6](https://blendermarket.com/products/blenrig?ref=311)
 
 ## Animation
 *   [Commotion](https://github.com/mrachinskiy/commotion)
