@@ -106,6 +106,8 @@
 *   [GIMP](http://www.gimp.org/)
 *   [Krita](http://krita.org/)
 *   [Blender](http://www.blender.org)
+*   [Material Maker](https://github.com/RodZill4/material-maker)
+
 
 ### Texture Maps
 *   [ArmorLab](https://armorlab.org/)
@@ -116,6 +118,7 @@
 *   [GIMP plugin Insane Bump](https://github.com/kyokenn/gimp-plugin-insanebump)
 *   [Laigter](https://github.com/azagaya/laigter)
 *   [Material-Map-Generator](https://github.com/joeyballentine/Material-Map-Generator)
+*   [Material Maker](https://github.com/RodZill4/material-maker)
 *   [Materialize](https://boundingboxsoftware.com/materialize/)
 *   [NeoTextureEdit](http://neotextureedit.sourceforge.net/)
 *   [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)
